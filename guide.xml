@@ -503,7 +503,7 @@
     <title lang="es">Editando tele</title>
   </programme>
   <programme start="20220602013000 -0300" stop="20220602023000 -0300" channel="Net TV">
-    <title lang="es">El valor de tus joyas</title>
+    <title lang="es">Leiva joyas</title>
   </programme>
   <programme start="20220602023000 -0300" stop="20220602030000 -0300" channel="Net TV">
     <title lang="es">Como todo</title>
@@ -515,7 +515,7 @@
     <title lang="es">Pampita Online</title>
   </programme>
   <programme start="20220602053000 -0300" stop="20220602070000 -0300" channel="Net TV">
-    <title lang="es">Mi gorda bella</title>
+    <title lang="es">Pedro, el escamoso</title>
   </programme>
   <programme start="20220602070000 -0300" stop="20220602080000 -0300" channel="Net TV">
     <title lang="es">¿Y ahora quién podrá ayudarnos?</title>
@@ -532,14 +532,14 @@
   <programme start="20220602140000 -0300" stop="20220602150000 -0300" channel="Net TV">
     <title lang="es">Gossip</title>
   </programme>
-  <programme start="20220602150000 -0300" stop="20220602163000 -0300" channel="Net TV">
-    <title lang="es">Las rubias</title>
+  <programme start="20220602150000 -0300" stop="20220602160000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
   </programme>
-  <programme start="20220602163000 -0300" stop="20220602180000 -0300" channel="Net TV">
+  <programme start="20220602160000 -0300" stop="20220602170000 -0300" channel="Net TV">
     <title lang="es">Mi gorda bella</title>
   </programme>
-  <programme start="20220602180000 -0300" stop="20220602190000 -0300" channel="Net TV">
-    <title lang="es">Pampita Online</title>
+  <programme start="20220602170000 -0300" stop="20220602190000 -0300" channel="Net TV">
+    <title lang="es">Pedro, el escamoso</title>
   </programme>
   <programme start="20220602190000 -0300" stop="20220602200000 -0300" channel="Net TV">
     <title lang="es">Reperfilar</title>
@@ -554,6 +554,9 @@
     <title lang="es">El señor de los cielos</title>
   </programme>
   <programme start="20220602233000 -0300" stop="20220603000000 -0300" channel="Net TV">
+    <title lang="es">Resumen de noticias NET</title>
+  </programme>
+  <programme start="20220603233000 -0300" stop="20220604000000 -0300" channel="Net TV">
     <title lang="es">Resumen de noticias NET</title>
   </programme>
   <programme start="20220601233000 -0300" stop="20220602003000 -0300" channel="AMÉRICA">
@@ -602,6 +605,9 @@
     <title lang="es">La puta ama</title>
   </programme>
   <programme start="20220602233000 -0300" stop="20220603003000 -0300" channel="AMÉRICA">
+    <title lang="es">Animales sueltos</title>
+  </programme>
+  <programme start="20220603233000 -0300" stop="20220604003000 -0300" channel="AMÉRICA">
     <title lang="es">Animales sueltos</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="TELEFE">
@@ -662,6 +668,9 @@
     <title lang="es">Fugitiva</title>
   </programme>
   <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="TELEFE">
+    <title lang="es">El primero de nosotros</title>
+  </programme>
+  <programme start="20220603230000 -0300" stop="20220604000000 -0300" channel="TELEFE">
     <title lang="es">El primero de nosotros</title>
   </programme>
   <programme start="20220601233000 -0300" stop="20220602000000 -0300" channel="TV PÚBLICA">
@@ -733,6 +742,9 @@
   <programme start="20220602233000 -0300" stop="20220603000000 -0300" channel="TV PÚBLICA">
     <title lang="es">Anfitrión</title>
   </programme>
+  <programme start="20220603233000 -0300" stop="20220604000000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Anfitrión</title>
+  </programme>
   <programme start="20220601224500 -0300" stop="20220602001500 -0300" channel="El Trece">
     <title lang="es">El hotel de los famosos</title>
   </programme>
@@ -779,6 +791,9 @@
     <title lang="es">Los 8 escalones</title>
   </programme>
   <programme start="20220602224500 -0300" stop="20220603001500 -0300" channel="El Trece">
+    <title lang="es">El hotel de los famosos</title>
+  </programme>
+  <programme start="20220603224500 -0300" stop="20220604001500 -0300" channel="El Trece">
     <title lang="es">El hotel de los famosos</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="El Nueve">
@@ -842,6 +857,9 @@
     <title lang="es">La hora exacta</title>
   </programme>
   <programme start="20220602231500 -0300" stop="20220603000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
+  </programme>
+  <programme start="20220603231500 -0300" stop="20220604000000 -0300" channel="El Nueve">
     <title lang="es">Telenueve al cierre</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="Encuentro">
@@ -973,6 +991,9 @@
   <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="Encuentro">
     <title lang="es">Los planetas</title>
   </programme>
+  <programme start="20220603230000 -0300" stop="20220604000000 -0300" channel="Encuentro">
+    <title lang="es">Los planetas</title>
+  </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="TN">
     <title lang="es">Bella y Bestia por TN</title>
   </programme>
@@ -1007,6 +1028,9 @@
     <title lang="es">A dos voces</title>
   </programme>
   <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="TN">
+    <title lang="es">Bella y Bestia por TN</title>
+  </programme>
+  <programme start="20220603230000 -0300" stop="20220604000000 -0300" channel="TN">
     <title lang="es">Bella y Bestia por TN</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602001500 -0300" channel="A24">
@@ -1049,6 +1073,9 @@
     <title lang="es">Viviana con vos</title>
   </programme>
   <programme start="20220602230000 -0300" stop="20220603001500 -0300" channel="A24">
+    <title lang="es">Basta Baby</title>
+  </programme>
+  <programme start="20220603230000 -0300" stop="20220604001500 -0300" channel="A24">
     <title lang="es">Basta Baby</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="C5N">
@@ -1106,6 +1133,9 @@
     <title lang="es">Desafío 20.22</title>
   </programme>
   <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="C5N">
+    <title lang="es">Hagan algo</title>
+  </programme>
+  <programme start="20220603230000 -0300" stop="20220604000000 -0300" channel="C5N">
     <title lang="es">Hagan algo</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="Crónica TV">
@@ -1174,6 +1204,9 @@
   <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="Crónica TV">
     <title lang="es">Antes de medianoche</title>
   </programme>
+  <programme start="20220603230000 -0300" stop="20220604000000 -0300" channel="Crónica TV">
+    <title lang="es">Antes de medianoche</title>
+  </programme>
   <programme start="20220601220000 -0300" stop="20220602000000 -0300" channel="Canal 26">
     <title lang="es">PM Noticias</title>
   </programme>
@@ -1202,6 +1235,9 @@
     <title lang="es">La noche de Canal 26</title>
   </programme>
   <programme start="20220602220000 -0300" stop="20220603000000 -0300" channel="Canal 26">
+    <title lang="es">PM Noticias</title>
+  </programme>
+  <programme start="20220603220000 -0300" stop="20220604000000 -0300" channel="Canal 26">
     <title lang="es">PM Noticias</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="LN+">
@@ -1252,6 +1288,9 @@
   <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="LN+">
     <title lang="es">+ Periodismo</title>
   </programme>
+  <programme start="20220603230000 -0300" stop="20220604000000 -0300" channel="LN+">
+    <title lang="es">+ Periodismo</title>
+  </programme>
   <programme start="20220601233000 -0300" stop="20220602000000 -0300" channel="IP">
     <title lang="es">Malditos nerds</title>
   </programme>
@@ -1288,6 +1327,9 @@
   <programme start="20220602233000 -0300" stop="20220603000000 -0300" channel="IP">
     <title lang="es">Malditos nerds</title>
   </programme>
+  <programme start="20220603233000 -0300" stop="20220604000000 -0300" channel="IP">
+    <title lang="es">Malditos nerds</title>
+  </programme>
   <programme start="20220601210000 -0300" stop="20220602010000 -0300" channel="señal santa maría">
     <title lang="es">Canal Santa María</title>
   </programme>
@@ -1307,6 +1349,9 @@
     <title lang="es">Canal Santa María</title>
   </programme>
   <programme start="20220602210000 -0300" stop="20220603010000 -0300" channel="señal santa maría">
+    <title lang="es">Canal Santa María</title>
+  </programme>
+  <programme start="20220603210000 -0300" stop="20220604010000 -0300" channel="señal santa maría">
     <title lang="es">Canal Santa María</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="Orbe 21">
@@ -1441,6 +1486,9 @@
   <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="Orbe 21">
     <title lang="es">Vox Dei, confesiones del rock</title>
   </programme>
+  <programme start="20220603230000 -0300" stop="20220604000000 -0300" channel="Orbe 21">
+    <title lang="es">Vox Dei, confesiones del rock</title>
+  </programme>
   <programme start="20220601230000 -0300" stop="20220602010000 -0300" channel="TyC Sports">
     <title lang="es">TyC Sports</title>
   </programme>
@@ -1486,6 +1534,9 @@
   <programme start="20220602230000 -0300" stop="20220603010000 -0300" channel="TyC Sports">
     <title lang="es">TyC Sports</title>
   </programme>
+  <programme start="20220603230000 -0300" stop="20220604010000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
+  </programme>
   <programme start="20220601230000 -0300" stop="20220602010000 -0300" channel="FOX Sports">
     <title lang="es">Palmeiras (Bra) vs. Ind. Petrolero (Bol), Fecha 2</title>
   </programme>
@@ -1529,6 +1580,9 @@
     <title lang="es">Newell’s campeón Apertura 2004</title>
   </programme>
   <programme start="20220602230000 -0300" stop="20220603010000 -0300" channel="FOX Sports">
+    <title lang="es">Talleres (Arg) vs. Flamengo (Bra), Fecha 4</title>
+  </programme>
+  <programme start="20220603230000 -0300" stop="20220604010000 -0300" channel="FOX Sports">
     <title lang="es">Talleres (Arg) vs. Flamengo (Bra), Fecha 4</title>
   </programme>
   <programme start="20220601233000 -0300" stop="20220602003000 -0300" channel="FOX Sports 2">
@@ -1585,6 +1639,9 @@
   <programme start="20220602233000 -0300" stop="20220603003000 -0300" channel="FOX Sports 2">
     <title lang="es">Expediente fútbol</title>
   </programme>
+  <programme start="20220603233000 -0300" stop="20220604003000 -0300" channel="FOX Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
   <programme start="20220601230000 -0300" stop="20220602010000 -0300" channel="FOX Sports 3">
     <title lang="es">Manchester City (Ing) vs. Real Madrid (Esp), Semifinal</title>
   </programme>
@@ -1625,6 +1682,9 @@
     <title lang="es">Fórmula 1</title>
   </programme>
   <programme start="20220602230000 -0300" stop="20220603010000 -0300" channel="FOX Sports 3">
+    <title lang="es">Villarreal (Esp) vs. Liverpool (Ing), Semifinal</title>
+  </programme>
+  <programme start="20220603230000 -0300" stop="20220604010000 -0300" channel="FOX Sports 3">
     <title lang="es">Villarreal (Esp) vs. Liverpool (Ing), Semifinal</title>
   </programme>
 </tv>
