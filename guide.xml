@@ -496,1129 +496,1135 @@
     <display-name lang="es">Paraguay TV</display-name>
     <url>http://www.telered.com.ar</url>
   </channel>
-  <programme start="20220531233000 -0300" stop="20220601000000 -0300" channel="Net TV">
-    <title lang="es">Resumen de noticias NET</title>
-  </programme>
-  <programme start="20220601000000 -0300" stop="20220601013000 -0300" channel="Net TV">
-    <title lang="es">Editando tele</title>
-  </programme>
-  <programme start="20220601013000 -0300" stop="20220601023000 -0300" channel="Net TV">
-    <title lang="es">El valor de tus joyas</title>
-  </programme>
-  <programme start="20220601023000 -0300" stop="20220601030000 -0300" channel="Net TV">
-    <title lang="es">Como todo</title>
-  </programme>
-  <programme start="20220601030000 -0300" stop="20220601043000 -0300" channel="Net TV">
-    <title lang="es">Como todo</title>
-  </programme>
-  <programme start="20220601043000 -0300" stop="20220601053000 -0300" channel="Net TV">
-    <title lang="es">Pampita Online</title>
-  </programme>
-  <programme start="20220601053000 -0300" stop="20220601070000 -0300" channel="Net TV">
-    <title lang="es">Mi gorda bella</title>
-  </programme>
-  <programme start="20220601070000 -0300" stop="20220601080000 -0300" channel="Net TV">
-    <title lang="es">¿Y ahora quién podrá ayudarnos?</title>
-  </programme>
-  <programme start="20220601080000 -0300" stop="20220601120000 -0300" channel="Net TV">
-    <title lang="es">Modo Fontevecchia</title>
-  </programme>
-  <programme start="20220601120000 -0300" stop="20220601123000 -0300" channel="Net TV">
-    <title lang="es">Como todo</title>
-  </programme>
-  <programme start="20220601123000 -0300" stop="20220601140000 -0300" channel="Net TV">
-    <title lang="es">Como todo</title>
-  </programme>
-  <programme start="20220601140000 -0300" stop="20220601150000 -0300" channel="Net TV">
-    <title lang="es">Gossip</title>
-  </programme>
-  <programme start="20220601150000 -0300" stop="20220601163000 -0300" channel="Net TV">
-    <title lang="es">Las rubias</title>
-  </programme>
-  <programme start="20220601163000 -0300" stop="20220601180000 -0300" channel="Net TV">
-    <title lang="es">Mi gorda bella</title>
-  </programme>
-  <programme start="20220601180000 -0300" stop="20220601190000 -0300" channel="Net TV">
-    <title lang="es">Pampita Online</title>
-  </programme>
-  <programme start="20220601190000 -0300" stop="20220601200000 -0300" channel="Net TV">
-    <title lang="es">Reperfilar</title>
-  </programme>
-  <programme start="20220601200000 -0300" stop="20220601210000 -0300" channel="Net TV">
-    <title lang="es">Editando tele</title>
-  </programme>
-  <programme start="20220601210000 -0300" stop="20220601220000 -0300" channel="Net TV">
-    <title lang="es">Imperio</title>
-  </programme>
-  <programme start="20220601220000 -0300" stop="20220601233000 -0300" channel="Net TV">
-    <title lang="es">El señor de los cielos</title>
-  </programme>
   <programme start="20220601233000 -0300" stop="20220602000000 -0300" channel="Net TV">
     <title lang="es">Resumen de noticias NET</title>
   </programme>
-  <programme start="20220531233000 -0300" stop="20220601003000 -0300" channel="AMÉRICA">
-    <title lang="es">Animales sueltos</title>
+  <programme start="20220602000000 -0300" stop="20220602013000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="AMÉRICA">
-    <title lang="es">Modo Selfie</title>
+  <programme start="20220602013000 -0300" stop="20220602023000 -0300" channel="Net TV">
+    <title lang="es">El valor de tus joyas</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601023000 -0300" channel="AMÉRICA">
-    <title lang="es">Pare de sufrir</title>
+  <programme start="20220602023000 -0300" stop="20220602030000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
   </programme>
-  <programme start="20220601023000 -0300" stop="20220601040000 -0300" channel="AMÉRICA">
-    <title lang="es">Intrusos</title>
+  <programme start="20220602030000 -0300" stop="20220602043000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
   </programme>
-  <programme start="20220601040000 -0300" stop="20220601050000 -0300" channel="AMÉRICA">
-    <title lang="es">Es por ahí</title>
+  <programme start="20220602043000 -0300" stop="20220602053000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601060000 -0300" channel="AMÉRICA">
-    <title lang="es">Animérica</title>
+  <programme start="20220602053000 -0300" stop="20220602070000 -0300" channel="Net TV">
+    <title lang="es">Mi gorda bella</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601080000 -0300" channel="AMÉRICA">
-    <title lang="es">Buenos días, América</title>
+  <programme start="20220602070000 -0300" stop="20220602080000 -0300" channel="Net TV">
+    <title lang="es">¿Y ahora quién podrá ayudarnos?</title>
   </programme>
-  <programme start="20220601080000 -0300" stop="20220601100000 -0300" channel="AMÉRICA">
-    <title lang="es">BDA Extra</title>
+  <programme start="20220602080000 -0300" stop="20220602120000 -0300" channel="Net TV">
+    <title lang="es">Modo Fontevecchia</title>
   </programme>
-  <programme start="20220601100000 -0300" stop="20220601120000 -0300" channel="AMÉRICA">
-    <title lang="es">Es por ahí</title>
+  <programme start="20220602120000 -0300" stop="20220602123000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601133000 -0300" channel="AMÉRICA">
-    <title lang="es">América Noticias mediodía</title>
+  <programme start="20220602123000 -0300" stop="20220602140000 -0300" channel="Net TV">
+    <title lang="es">Como todo</title>
   </programme>
-  <programme start="20220601133000 -0300" stop="20220601154500 -0300" channel="AMÉRICA">
-    <title lang="es">Intrusos</title>
+  <programme start="20220602140000 -0300" stop="20220602150000 -0300" channel="Net TV">
+    <title lang="es">Gossip</title>
   </programme>
-  <programme start="20220601154500 -0300" stop="20220601180000 -0300" channel="AMÉRICA">
-    <title lang="es">A la tarde</title>
+  <programme start="20220602150000 -0300" stop="20220602163000 -0300" channel="Net TV">
+    <title lang="es">Las rubias</title>
   </programme>
-  <programme start="20220601180000 -0300" stop="20220601200000 -0300" channel="AMÉRICA">
-    <title lang="es">América noticias 2da. edición</title>
+  <programme start="20220602163000 -0300" stop="20220602180000 -0300" channel="Net TV">
+    <title lang="es">Mi gorda bella</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601221000 -0300" channel="AMÉRICA">
-    <title lang="es">LAM</title>
+  <programme start="20220602180000 -0300" stop="20220602190000 -0300" channel="Net TV">
+    <title lang="es">Pampita Online</title>
   </programme>
-  <programme start="20220601221000 -0300" stop="20220601233000 -0300" channel="AMÉRICA">
-    <title lang="es">La puta ama</title>
+  <programme start="20220602190000 -0300" stop="20220602200000 -0300" channel="Net TV">
+    <title lang="es">Reperfilar</title>
+  </programme>
+  <programme start="20220602200000 -0300" stop="20220602210000 -0300" channel="Net TV">
+    <title lang="es">Editando tele</title>
+  </programme>
+  <programme start="20220602210000 -0300" stop="20220602220000 -0300" channel="Net TV">
+    <title lang="es">Imperio</title>
+  </programme>
+  <programme start="20220602220000 -0300" stop="20220602233000 -0300" channel="Net TV">
+    <title lang="es">El señor de los cielos</title>
+  </programme>
+  <programme start="20220602233000 -0300" stop="20220603000000 -0300" channel="Net TV">
+    <title lang="es">Resumen de noticias NET</title>
   </programme>
   <programme start="20220601233000 -0300" stop="20220602003000 -0300" channel="AMÉRICA">
     <title lang="es">Animales sueltos</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601000000 -0300" channel="TELEFE">
-    <title lang="es">El primero de nosotros</title>
+  <programme start="20220602003000 -0300" stop="20220602010000 -0300" channel="AMÉRICA">
+    <title lang="es">Modo Selfie</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601003000 -0300" channel="TELEFE">
-    <title lang="es">No es tan tarde</title>
+  <programme start="20220602010000 -0300" stop="20220602023000 -0300" channel="AMÉRICA">
+    <title lang="es">Pare de sufrir</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="TELEFE">
-    <title lang="es">Staff</title>
+  <programme start="20220602023000 -0300" stop="20220602040000 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601013000 -0300" channel="TELEFE">
-    <title lang="es">La hora del milagro</title>
+  <programme start="20220602040000 -0300" stop="20220602050000 -0300" channel="AMÉRICA">
+    <title lang="es">Es por ahí</title>
   </programme>
-  <programme start="20220601013000 -0300" stop="20220601021500 -0300" channel="TELEFE">
-    <title lang="es">Leiva joyas</title>
+  <programme start="20220602050000 -0300" stop="20220602060000 -0300" channel="AMÉRICA">
+    <title lang="es">Animérica</title>
   </programme>
-  <programme start="20220601021500 -0300" stop="20220601060000 -0300" channel="TELEFE">
-    <title lang="es">Espacios comerciales</title>
+  <programme start="20220602060000 -0300" stop="20220602080000 -0300" channel="AMÉRICA">
+    <title lang="es">Buenos días, América</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601064500 -0300" channel="TELEFE">
-    <title lang="es">Nick Jr.</title>
+  <programme start="20220602080000 -0300" stop="20220602100000 -0300" channel="AMÉRICA">
+    <title lang="es">BDA Extra</title>
   </programme>
-  <programme start="20220601064500 -0300" stop="20220601070000 -0300" channel="TELEFE">
-    <title lang="es">Tiempo y tránsito</title>
+  <programme start="20220602100000 -0300" stop="20220602120000 -0300" channel="AMÉRICA">
+    <title lang="es">Es por ahí</title>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601093000 -0300" channel="TELEFE">
-    <title lang="es">Buen Telefe</title>
+  <programme start="20220602120000 -0300" stop="20220602133000 -0300" channel="AMÉRICA">
+    <title lang="es">América Noticias mediodía</title>
   </programme>
-  <programme start="20220601093000 -0300" stop="20220601111500 -0300" channel="TELEFE">
-    <title lang="es">Caso cerrado</title>
+  <programme start="20220602133000 -0300" stop="20220602154500 -0300" channel="AMÉRICA">
+    <title lang="es">Intrusos</title>
   </programme>
-  <programme start="20220601111500 -0300" stop="20220601130000 -0300" channel="TELEFE">
-    <title lang="es">Flor de equipo</title>
+  <programme start="20220602154500 -0300" stop="20220602180000 -0300" channel="AMÉRICA">
+    <title lang="es">A la tarde</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601143000 -0300" channel="TELEFE">
-    <title lang="es">El noticiero de la gente</title>
+  <programme start="20220602180000 -0300" stop="20220602200000 -0300" channel="AMÉRICA">
+    <title lang="es">América noticias 2da. edición</title>
   </programme>
-  <programme start="20220601143000 -0300" stop="20220601160000 -0300" channel="TELEFE">
-    <title lang="es">Cortá por Lozano</title>
+  <programme start="20220602200000 -0300" stop="20220602221000 -0300" channel="AMÉRICA">
+    <title lang="es">LAM</title>
   </programme>
-  <programme start="20220601160000 -0300" stop="20220601170000 -0300" channel="TELEFE">
-    <title lang="es">Hercai</title>
+  <programme start="20220602221000 -0300" stop="20220602233000 -0300" channel="AMÉRICA">
+    <title lang="es">La puta ama</title>
   </programme>
-  <programme start="20220601170000 -0300" stop="20220601174500 -0300" channel="TELEFE">
-    <title lang="es">La novia de Estambul</title>
-  </programme>
-  <programme start="20220601174500 -0300" stop="20220601184500 -0300" channel="TELEFE">
-    <title lang="es">Soñar contigo</title>
-  </programme>
-  <programme start="20220601184500 -0300" stop="20220601200000 -0300" channel="TELEFE">
-    <title lang="es">Tierra amarga</title>
-  </programme>
-  <programme start="20220601200000 -0300" stop="20220601213000 -0300" channel="TELEFE">
-    <title lang="es">Telefe noticias</title>
-  </programme>
-  <programme start="20220601213000 -0300" stop="20220601230000 -0300" channel="TELEFE">
-    <title lang="es">Fugitiva</title>
+  <programme start="20220602233000 -0300" stop="20220603003000 -0300" channel="AMÉRICA">
+    <title lang="es">Animales sueltos</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="TELEFE">
     <title lang="es">El primero de nosotros</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601000000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Rumbo a Catar</title>
+  <programme start="20220602000000 -0300" stop="20220602003000 -0300" channel="TELEFE">
+    <title lang="es">No es tan tarde</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601003000 -0300" channel="TV PÚBLICA">
-    <title lang="es">TPA Noticias</title>
+  <programme start="20220602003000 -0300" stop="20220602010000 -0300" channel="TELEFE">
+    <title lang="es">Staff</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Función federal</title>
+  <programme start="20220602010000 -0300" stop="20220602013000 -0300" channel="TELEFE">
+    <title lang="es">La hora del milagro</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601020000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Altavoz</title>
+  <programme start="20220602013000 -0300" stop="20220602021500 -0300" channel="TELEFE">
+    <title lang="es">Leiva joyas</title>
   </programme>
-  <programme start="20220601020000 -0300" stop="20220601043000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Cocineros argentinos</title>
+  <programme start="20220602021500 -0300" stop="20220602060000 -0300" channel="TELEFE">
+    <title lang="es">Espacios comerciales</title>
   </programme>
-  <programme start="20220601043000 -0300" stop="20220601053000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Rumbo a Qatar</title>
+  <programme start="20220602060000 -0300" stop="20220602064500 -0300" channel="TELEFE">
+    <title lang="es">Nick Jr.</title>
   </programme>
-  <programme start="20220601053000 -0300" stop="20220601060000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Artesanos</title>
+  <programme start="20220602064500 -0300" stop="20220602070000 -0300" channel="TELEFE">
+    <title lang="es">Tiempo y tránsito</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601063000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Tecnologías originarias</title>
+  <programme start="20220602070000 -0300" stop="20220602093000 -0300" channel="TELEFE">
+    <title lang="es">Buen Telefe</title>
   </programme>
-  <programme start="20220601063000 -0300" stop="20220601070000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Pampero TV</title>
+  <programme start="20220602093000 -0300" stop="20220602111500 -0300" channel="TELEFE">
+    <title lang="es">Caso cerrado</title>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601090000 -0300" channel="TV PÚBLICA">
-    <title lang="es">TPA Noticias</title>
+  <programme start="20220602111500 -0300" stop="20220602130000 -0300" channel="TELEFE">
+    <title lang="es">Flor de equipo</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601093000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Pakapaka</title>
+  <programme start="20220602130000 -0300" stop="20220602143000 -0300" channel="TELEFE">
+    <title lang="es">El noticiero de la gente</title>
   </programme>
-  <programme start="20220601093000 -0300" stop="20220601100000 -0300" channel="TV PÚBLICA">
-    <title lang="es">#Quedate en casa</title>
+  <programme start="20220602143000 -0300" stop="20220602160000 -0300" channel="TELEFE">
+    <title lang="es">Cortá por Lozano</title>
   </programme>
-  <programme start="20220601100000 -0300" stop="20220601120000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Mañanas públicas</title>
+  <programme start="20220602160000 -0300" stop="20220602170000 -0300" channel="TELEFE">
+    <title lang="es">Hercai</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601133000 -0300" channel="TV PÚBLICA">
-    <title lang="es">TPA Noticias</title>
+  <programme start="20220602170000 -0300" stop="20220602174500 -0300" channel="TELEFE">
+    <title lang="es">La novia de Estambul</title>
   </programme>
-  <programme start="20220601133000 -0300" stop="20220601160000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Cocineros argentinos</title>
+  <programme start="20220602174500 -0300" stop="20220602184500 -0300" channel="TELEFE">
+    <title lang="es">Soñar contigo</title>
   </programme>
-  <programme start="20220601160000 -0300" stop="20220601173000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Todos Estamos Conectados por la música</title>
+  <programme start="20220602184500 -0300" stop="20220602200000 -0300" channel="TELEFE">
+    <title lang="es">Tierra amarga</title>
   </programme>
-  <programme start="20220601173000 -0300" stop="20220601183000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Altavoz</title>
+  <programme start="20220602200000 -0300" stop="20220602213000 -0300" channel="TELEFE">
+    <title lang="es">Telefe noticias</title>
   </programme>
-  <programme start="20220601183000 -0300" stop="20220601200000 -0300" channel="TV PÚBLICA">
-    <title lang="es">TPA Noticias</title>
+  <programme start="20220602213000 -0300" stop="20220602230000 -0300" channel="TELEFE">
+    <title lang="es">Fugitiva</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601210000 -0300" channel="TV PÚBLICA">
-    <title lang="es">¿Quién sabe más de Argentina?</title>
-  </programme>
-  <programme start="20220601210000 -0300" stop="20220601220000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Desiguales</title>
-  </programme>
-  <programme start="20220601220000 -0300" stop="20220601230000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Noche de mente</title>
-  </programme>
-  <programme start="20220601230000 -0300" stop="20220601233000 -0300" channel="TV PÚBLICA">
-    <title lang="es">Música por la ciencia</title>
+  <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="TELEFE">
+    <title lang="es">El primero de nosotros</title>
   </programme>
   <programme start="20220601233000 -0300" stop="20220602000000 -0300" channel="TV PÚBLICA">
     <title lang="es">Anfitrión</title>
   </programme>
-  <programme start="20220531224500 -0300" stop="20220601001500 -0300" channel="El Trece">
-    <title lang="es">El hotel de los famosos</title>
+  <programme start="20220602000000 -0300" stop="20220602003000 -0300" channel="TV PÚBLICA">
+    <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220601001500 -0300" stop="20220601010000 -0300" channel="El Trece">
-    <title lang="es">En síntesis</title>
+  <programme start="20220602003000 -0300" stop="20220602010000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Función federal</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601011500 -0300" channel="El Trece">
-    <title lang="es">Cucinare</title>
+  <programme start="20220602010000 -0300" stop="20220602020000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Altavoz</title>
   </programme>
-  <programme start="20220601011500 -0300" stop="20220601063000 -0300" channel="El Trece">
-    <title lang="es">Fin de transmisión</title>
+  <programme start="20220602020000 -0300" stop="20220602043000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Cocineros argentinos</title>
   </programme>
-  <programme start="20220601063000 -0300" stop="20220601070000 -0300" channel="El Trece">
-    <title lang="es">Tiempo del tiempo</title>
+  <programme start="20220602043000 -0300" stop="20220602053000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Gigantes del sur</title>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601093000 -0300" channel="El Trece">
-    <title lang="es">Arriba argentinos</title>
+  <programme start="20220602053000 -0300" stop="20220602060000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Artesanos</title>
   </programme>
-  <programme start="20220601093000 -0300" stop="20220601110000 -0300" channel="El Trece">
-    <title lang="es">Nosotros a la mañana</title>
+  <programme start="20220602060000 -0300" stop="20220602063000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Tecnologías originarias</title>
   </programme>
-  <programme start="20220601110000 -0300" stop="20220601130000 -0300" channel="El Trece">
-    <title lang="es">Socios del espectáculo</title>
+  <programme start="20220602063000 -0300" stop="20220602070000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Pampero TV</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601143000 -0300" channel="El Trece">
-    <title lang="es">Mediodía noticias</title>
+  <programme start="20220602070000 -0300" stop="20220602090000 -0300" channel="TV PÚBLICA">
+    <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220601143000 -0300" stop="20220601160000 -0300" channel="El Trece">
-    <title lang="es">Los 8 escalones del millón</title>
+  <programme start="20220602090000 -0300" stop="20220602093000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Pakapaka</title>
   </programme>
-  <programme start="20220601160000 -0300" stop="20220601171500 -0300" channel="El Trece">
-    <title lang="es">Bienvenidos a bordo</title>
+  <programme start="20220602093000 -0300" stop="20220602100000 -0300" channel="TV PÚBLICA">
+    <title lang="es">#Quedate en casa</title>
   </programme>
-  <programme start="20220601171500 -0300" stop="20220601183000 -0300" channel="El Trece">
-    <title lang="es">Momento D</title>
+  <programme start="20220602100000 -0300" stop="20220602120000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Mañanas públicas</title>
   </programme>
-  <programme start="20220601183000 -0300" stop="20220601200000 -0300" channel="El Trece">
-    <title lang="es">100 argentinos dicen</title>
+  <programme start="20220602120000 -0300" stop="20220602133000 -0300" channel="TV PÚBLICA">
+    <title lang="es">TPA Noticias</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601211500 -0300" channel="El Trece">
-    <title lang="es">Telenoche</title>
+  <programme start="20220602133000 -0300" stop="20220602160000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Cocineros argentinos</title>
   </programme>
-  <programme start="20220601211500 -0300" stop="20220601224500 -0300" channel="El Trece">
-    <title lang="es">Los 8 escalones del millón</title>
+  <programme start="20220602160000 -0300" stop="20220602173000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Todos Estamos Conectados por la música</title>
+  </programme>
+  <programme start="20220602173000 -0300" stop="20220602183000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Altavoz</title>
+  </programme>
+  <programme start="20220602183000 -0300" stop="20220602200000 -0300" channel="TV PÚBLICA">
+    <title lang="es">TPA Noticias</title>
+  </programme>
+  <programme start="20220602200000 -0300" stop="20220602210000 -0300" channel="TV PÚBLICA">
+    <title lang="es">¿Quién sabe más de Argentina?</title>
+  </programme>
+  <programme start="20220602210000 -0300" stop="20220602220000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Desiguales</title>
+  </programme>
+  <programme start="20220602220000 -0300" stop="20220602230000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Noche de mente</title>
+  </programme>
+  <programme start="20220602230000 -0300" stop="20220602233000 -0300" channel="TV PÚBLICA">
+    <title lang="es">40 abriles</title>
+  </programme>
+  <programme start="20220602233000 -0300" stop="20220603000000 -0300" channel="TV PÚBLICA">
+    <title lang="es">Anfitrión</title>
   </programme>
   <programme start="20220601224500 -0300" stop="20220602001500 -0300" channel="El Trece">
     <title lang="es">El hotel de los famosos</title>
   </programme>
-  <programme start="20220531231500 -0300" stop="20220601000000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al cierre</title>
+  <programme start="20220602001500 -0300" stop="20220602010000 -0300" channel="El Trece">
+    <title lang="es">En síntesis</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601003000 -0300" channel="El Nueve">
-    <title lang="es">Selección de noticias</title>
+  <programme start="20220602010000 -0300" stop="20220602011500 -0300" channel="El Trece">
+    <title lang="es">Cucinare</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="El Nueve">
-    <title lang="es">Punto de Luz</title>
+  <programme start="20220602011500 -0300" stop="20220602063000 -0300" channel="El Trece">
+    <title lang="es">Fin de transmisión</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601011500 -0300" channel="El Nueve">
-    <title lang="es">Pare de sufrir</title>
+  <programme start="20220602063000 -0300" stop="20220602070000 -0300" channel="El Trece">
+    <title lang="es">Tiempo del tiempo</title>
   </programme>
-  <programme start="20220601011500 -0300" stop="20220601021500 -0300" channel="El Nueve">
-    <title lang="es">TV compras</title>
+  <programme start="20220602070000 -0300" stop="20220602093000 -0300" channel="El Trece">
+    <title lang="es">Arriba argentinos</title>
   </programme>
-  <programme start="20220601021500 -0300" stop="20220601033000 -0300" channel="El Nueve">
-    <title lang="es">Todas las tardes</title>
+  <programme start="20220602093000 -0300" stop="20220602110000 -0300" channel="El Trece">
+    <title lang="es">Nosotros a la mañana</title>
   </programme>
-  <programme start="20220601033000 -0300" stop="20220601040000 -0300" channel="El Nueve">
-    <title lang="es">Cierre de transmisión</title>
+  <programme start="20220602110000 -0300" stop="20220602130000 -0300" channel="El Trece">
+    <title lang="es">Socios del espectáculo</title>
   </programme>
-  <programme start="20220601040000 -0300" stop="20220601050000 -0300" channel="El Nueve">
-    <title lang="es">Informes TL 9</title>
+  <programme start="20220602130000 -0300" stop="20220602143000 -0300" channel="El Trece">
+    <title lang="es">Mediodía noticias</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601060000 -0300" channel="El Nueve">
-    <title lang="es">Dale Like!</title>
+  <programme start="20220602143000 -0300" stop="20220602160000 -0300" channel="El Trece">
+    <title lang="es">Los 8 escalones del millón</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601065500 -0300" channel="El Nueve">
-    <title lang="es">Amanece</title>
+  <programme start="20220602160000 -0300" stop="20220602171500 -0300" channel="El Trece">
+    <title lang="es">Bienvenidos a bordo</title>
   </programme>
-  <programme start="20220601065500 -0300" stop="20220601100000 -0300" channel="El Nueve">
-    <title lang="es">TL 9 al amanecer</title>
+  <programme start="20220602171500 -0300" stop="20220602183000 -0300" channel="El Trece">
+    <title lang="es">Momento D</title>
   </programme>
-  <programme start="20220601100000 -0300" stop="20220601120000 -0300" channel="El Nueve">
-    <title lang="es">¡Qué mañana!</title>
+  <programme start="20220602183000 -0300" stop="20220602200000 -0300" channel="El Trece">
+    <title lang="es">100 argentinos dicen</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601133000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve al mediodía</title>
+  <programme start="20220602200000 -0300" stop="20220602211500 -0300" channel="El Trece">
+    <title lang="es">Telenoche</title>
   </programme>
-  <programme start="20220601133000 -0300" stop="20220601150000 -0300" channel="El Nueve">
-    <title lang="es">El show del problema</title>
+  <programme start="20220602211500 -0300" stop="20220602224500 -0300" channel="El Trece">
+    <title lang="es">Los 8 escalones</title>
   </programme>
-  <programme start="20220601150000 -0300" stop="20220601160000 -0300" channel="El Nueve">
-    <title lang="es">Ricos y famosos</title>
-  </programme>
-  <programme start="20220601160000 -0300" stop="20220601173000 -0300" channel="El Nueve">
-    <title lang="es">Super super</title>
-  </programme>
-  <programme start="20220601173000 -0300" stop="20220601190000 -0300" channel="El Nueve">
-    <title lang="es">Todas las tardes</title>
-  </programme>
-  <programme start="20220601190000 -0300" stop="20220601203000 -0300" channel="El Nueve">
-    <title lang="es">Telenueve central</title>
-  </programme>
-  <programme start="20220601203000 -0300" stop="20220601220000 -0300" channel="El Nueve">
-    <title lang="es">Bendita</title>
-  </programme>
-  <programme start="20220601220000 -0300" stop="20220601230000 -0300" channel="El Nueve">
-    <title lang="es">La hora exacta</title>
+  <programme start="20220602224500 -0300" stop="20220603001500 -0300" channel="El Trece">
+    <title lang="es">El hotel de los famosos</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="El Nueve">
     <title lang="es">La divina noche</title>
   </programme>
-  <programme start="20220531233000 -0300" stop="20220601000000 -0300" channel="Encuentro">
-    <title lang="es">Glaciares</title>
+  <programme start="20220602000000 -0300" stop="20220602003000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601003000 -0300" channel="Encuentro">
-    <title lang="es">Parques naturales</title>
+  <programme start="20220602003000 -0300" stop="20220602010000 -0300" channel="El Nueve">
+    <title lang="es">Punto de Luz</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="Encuentro">
-    <title lang="es">Haylli, una memoria revelada</title>
+  <programme start="20220602010000 -0300" stop="20220602011500 -0300" channel="El Nueve">
+    <title lang="es">Pare de sufrir</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601013000 -0300" channel="Encuentro">
-    <title lang="es">Secreto ancestral</title>
+  <programme start="20220602011500 -0300" stop="20220602021500 -0300" channel="El Nueve">
+    <title lang="es">TV compras</title>
   </programme>
-  <programme start="20220601013000 -0300" stop="20220601020000 -0300" channel="Encuentro">
-    <title lang="es">Fechas que hicieron historia</title>
+  <programme start="20220602021500 -0300" stop="20220602033000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
   </programme>
-  <programme start="20220601020000 -0300" stop="20220601023000 -0300" channel="Encuentro">
-    <title lang="es">Teatro abierto</title>
+  <programme start="20220602033000 -0300" stop="20220602040000 -0300" channel="El Nueve">
+    <title lang="es">Cierre de transmisión</title>
   </programme>
-  <programme start="20220601023000 -0300" stop="20220601030000 -0300" channel="Encuentro">
-    <title lang="es">Mi oficio. Mi historia</title>
+  <programme start="20220602040000 -0300" stop="20220602050000 -0300" channel="El Nueve">
+    <title lang="es">Informes TL 9</title>
   </programme>
-  <programme start="20220601030000 -0300" stop="20220601033000 -0300" channel="Encuentro">
-    <title lang="es">Redes en conflicto</title>
+  <programme start="20220602050000 -0300" stop="20220602060000 -0300" channel="El Nueve">
+    <title lang="es">Dale Like!</title>
   </programme>
-  <programme start="20220601033000 -0300" stop="20220601040000 -0300" channel="Encuentro">
-    <title lang="es">Marrón. Antirracismo en tiempo presente</title>
+  <programme start="20220602060000 -0300" stop="20220602065500 -0300" channel="El Nueve">
+    <title lang="es">Amanece</title>
   </programme>
-  <programme start="20220601040000 -0300" stop="20220601043000 -0300" channel="Encuentro">
-    <title lang="es">Los discos que nos cambiaron</title>
+  <programme start="20220602065500 -0300" stop="20220602100000 -0300" channel="El Nueve">
+    <title lang="es">TL 9 al amanecer</title>
   </programme>
-  <programme start="20220601043000 -0300" stop="20220601050000 -0300" channel="Encuentro">
-    <title lang="es">Glaciares</title>
+  <programme start="20220602100000 -0300" stop="20220602120000 -0300" channel="El Nueve">
+    <title lang="es">¡Qué mañana!</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601053000 -0300" channel="Encuentro">
-    <title lang="es">Parques naturales</title>
+  <programme start="20220602120000 -0300" stop="20220602133000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al mediodía</title>
   </programme>
-  <programme start="20220601053000 -0300" stop="20220601060000 -0300" channel="Encuentro">
-    <title lang="es">Haylli, una memoria revelada</title>
+  <programme start="20220602133000 -0300" stop="20220602150000 -0300" channel="El Nueve">
+    <title lang="es">El show del problema</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601063000 -0300" channel="Encuentro">
-    <title lang="es">Ellxs dicen</title>
+  <programme start="20220602150000 -0300" stop="20220602160000 -0300" channel="El Nueve">
+    <title lang="es">Ricos y famosos</title>
   </programme>
-  <programme start="20220601063000 -0300" stop="20220601070000 -0300" channel="Encuentro">
-    <title lang="es">Redes en conflicto</title>
+  <programme start="20220602160000 -0300" stop="20220602173000 -0300" channel="El Nueve">
+    <title lang="es">Super super</title>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601073000 -0300" channel="Encuentro">
-    <title lang="es">Quereme trans. Un informe necesario</title>
+  <programme start="20220602173000 -0300" stop="20220602190000 -0300" channel="El Nueve">
+    <title lang="es">Todas las tardes</title>
   </programme>
-  <programme start="20220601073000 -0300" stop="20220601080000 -0300" channel="Encuentro">
-    <title lang="es">Pequeños secretos de grandes cuadros</title>
+  <programme start="20220602190000 -0300" stop="20220602203000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve central</title>
   </programme>
-  <programme start="20220601080000 -0300" stop="20220601083000 -0300" channel="Encuentro">
-    <title lang="es">Belgrano. La nación soñada</title>
+  <programme start="20220602203000 -0300" stop="20220602220000 -0300" channel="El Nueve">
+    <title lang="es">Bendita</title>
   </programme>
-  <programme start="20220601083000 -0300" stop="20220601090000 -0300" channel="Encuentro">
-    <title lang="es">La mirada de Lestido</title>
+  <programme start="20220602220000 -0300" stop="20220602231500 -0300" channel="El Nueve">
+    <title lang="es">La hora exacta</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601093000 -0300" channel="Encuentro">
-    <title lang="es">Impulso sonoro. Ciencia y música</title>
-  </programme>
-  <programme start="20220601093000 -0300" stop="20220601100000 -0300" channel="Encuentro">
-    <title lang="es">Homenajes. Gracias por el canto</title>
-  </programme>
-  <programme start="20220601100000 -0300" stop="20220601110000 -0300" channel="Encuentro">
-    <title lang="es">Atlántico Sur</title>
-  </programme>
-  <programme start="20220601110000 -0300" stop="20220601120000 -0300" channel="Encuentro">
-    <title lang="es">Nuevo mundo</title>
-  </programme>
-  <programme start="20220601120000 -0300" stop="20220601123000 -0300" channel="Encuentro">
-    <title lang="es">Habitar</title>
-  </programme>
-  <programme start="20220601123000 -0300" stop="20220601130000 -0300" channel="Encuentro">
-    <title lang="es">Ser/Estar</title>
-  </programme>
-  <programme start="20220601130000 -0300" stop="20220601140000 -0300" channel="Encuentro">
-    <title lang="es">Encuentro en el estudio</title>
-  </programme>
-  <programme start="20220601140000 -0300" stop="20220601150000 -0300" channel="Encuentro">
-    <title lang="es">Einstein del reino animal</title>
-  </programme>
-  <programme start="20220601150000 -0300" stop="20220601153000 -0300" channel="Encuentro">
-    <title lang="es">Escándalos éticos</title>
-  </programme>
-  <programme start="20220601153000 -0300" stop="20220601160000 -0300" channel="Encuentro">
-    <title lang="es">Expreso futuro</title>
-  </programme>
-  <programme start="20220601160000 -0300" stop="20220601163000 -0300" channel="Encuentro">
-    <title lang="es">Nos vemos en Encuentro</title>
-  </programme>
-  <programme start="20220601163000 -0300" stop="20220601170000 -0300" channel="Encuentro">
-    <title lang="es">Mundos paralelos. Arte y física cuántica</title>
-  </programme>
-  <programme start="20220601170000 -0300" stop="20220601173000 -0300" channel="Encuentro">
-    <title lang="es">Los 90. La década que amamos odiar</title>
-  </programme>
-  <programme start="20220601173000 -0300" stop="20220601180000 -0300" channel="Encuentro">
-    <title lang="es">Mentira la verdad</title>
-  </programme>
-  <programme start="20220601180000 -0300" stop="20220601190000 -0300" channel="Encuentro">
-    <title lang="es">Los planetas</title>
-  </programme>
-  <programme start="20220601190000 -0300" stop="20220601193000 -0300" channel="Encuentro">
-    <title lang="es">La tonga</title>
-  </programme>
-  <programme start="20220601193000 -0300" stop="20220601200000 -0300" channel="Encuentro">
-    <title lang="es">La olla bruja</title>
-  </programme>
-  <programme start="20220601200000 -0300" stop="20220601203000 -0300" channel="Encuentro">
-    <title lang="es">Grandezas de México</title>
-  </programme>
-  <programme start="20220601203000 -0300" stop="20220601210000 -0300" channel="Encuentro">
-    <title lang="es">2001. Acontecimiento argentino</title>
-  </programme>
-  <programme start="20220601210000 -0300" stop="20220601220000 -0300" channel="Encuentro">
-    <title lang="es">Historias debidas</title>
-  </programme>
-  <programme start="20220601220000 -0300" stop="20220601223000 -0300" channel="Encuentro">
-    <title lang="es">Navegar la historia</title>
-  </programme>
-  <programme start="20220601223000 -0300" stop="20220601230000 -0300" channel="Encuentro">
-    <title lang="es">Curiosidades de la naturaleza</title>
+  <programme start="20220602231500 -0300" stop="20220603000000 -0300" channel="El Nueve">
+    <title lang="es">Telenueve al cierre</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="Encuentro">
     <title lang="es">Simón Schama: los románticos y nosotros</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601000000 -0300" channel="TN">
-    <title lang="es">Bella y Bestia por TN</title>
+  <programme start="20220602000000 -0300" stop="20220602003000 -0300" channel="Encuentro">
+    <title lang="es">Grandezas de México</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601010000 -0300" channel="TN">
-    <title lang="es">TN de noche</title>
+  <programme start="20220602003000 -0300" stop="20220602010000 -0300" channel="Encuentro">
+    <title lang="es">2001. Acontecimiento argentino</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601050000 -0300" channel="TN">
-    <title lang="es">Re despiertos</title>
+  <programme start="20220602010000 -0300" stop="20220602020000 -0300" channel="Encuentro">
+    <title lang="es">Historias debidas</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601060000 -0300" channel="TN">
-    <title lang="es">Tiempo, tránsito y noticias</title>
+  <programme start="20220602020000 -0300" stop="20220602023000 -0300" channel="Encuentro">
+    <title lang="es">La tonga</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601100000 -0300" channel="TN">
-    <title lang="es">TN de 6 a 10</title>
+  <programme start="20220602023000 -0300" stop="20220602030000 -0300" channel="Encuentro">
+    <title lang="es">La olla bruja</title>
   </programme>
-  <programme start="20220601100000 -0300" stop="20220601130000 -0300" channel="TN">
-    <title lang="es">TN de 10 a 13</title>
+  <programme start="20220602030000 -0300" stop="20220602033000 -0300" channel="Encuentro">
+    <title lang="es">Parques naturales</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601160000 -0300" channel="TN">
-    <title lang="es">Nuestra tarde</title>
+  <programme start="20220602033000 -0300" stop="20220602040000 -0300" channel="Encuentro">
+    <title lang="es">Curiosidades de la naturaleza</title>
   </programme>
-  <programme start="20220601160000 -0300" stop="20220601180000 -0300" channel="TN">
-    <title lang="es">Está pasando</title>
+  <programme start="20220602040000 -0300" stop="20220602050000 -0300" channel="Encuentro">
+    <title lang="es">Simón Schama: los románticos y nosotros</title>
   </programme>
-  <programme start="20220601180000 -0300" stop="20220601200000 -0300" channel="TN">
-    <title lang="es">TN Central</title>
+  <programme start="20220602050000 -0300" stop="20220602053000 -0300" channel="Encuentro">
+    <title lang="es">Grandezas de México</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601220000 -0300" channel="TN">
-    <title lang="es">Solo una vuelta más</title>
+  <programme start="20220602053000 -0300" stop="20220602060000 -0300" channel="Encuentro">
+    <title lang="es">2001. Acontecimiento argentino</title>
   </programme>
-  <programme start="20220601220000 -0300" stop="20220601230000 -0300" channel="TN">
-    <title lang="es">Doble V</title>
+  <programme start="20220602060000 -0300" stop="20220602063000 -0300" channel="Encuentro">
+    <title lang="es">Parques naturales</title>
+  </programme>
+  <programme start="20220602063000 -0300" stop="20220602070000 -0300" channel="Encuentro">
+    <title lang="es">Haylli, una memoria revelada</title>
+  </programme>
+  <programme start="20220602070000 -0300" stop="20220602073000 -0300" channel="Encuentro">
+    <title lang="es">Secreto ancestral</title>
+  </programme>
+  <programme start="20220602073000 -0300" stop="20220602080000 -0300" channel="Encuentro">
+    <title lang="es">Fechas que hicieron historia</title>
+  </programme>
+  <programme start="20220602080000 -0300" stop="20220602083000 -0300" channel="Encuentro">
+    <title lang="es">Teatro abierto</title>
+  </programme>
+  <programme start="20220602083000 -0300" stop="20220602090000 -0300" channel="Encuentro">
+    <title lang="es">Mi oficio. Mi historia</title>
+  </programme>
+  <programme start="20220602090000 -0300" stop="20220602093000 -0300" channel="Encuentro">
+    <title lang="es">Lo justo. Detrás de la ley</title>
+  </programme>
+  <programme start="20220602093000 -0300" stop="20220602100000 -0300" channel="Encuentro">
+    <title lang="es">Marrón. Antirracismo en tiempo presente</title>
+  </programme>
+  <programme start="20220602100000 -0300" stop="20220602103000 -0300" channel="Encuentro">
+    <title lang="es">Los discos que nos cambiaron</title>
+  </programme>
+  <programme start="20220602103000 -0300" stop="20220602110000 -0300" channel="Encuentro">
+    <title lang="es">Glaciares</title>
+  </programme>
+  <programme start="20220602110000 -0300" stop="20220602113000 -0300" channel="Encuentro">
+    <title lang="es">Ellxs dicen</title>
+  </programme>
+  <programme start="20220602113000 -0300" stop="20220602120000 -0300" channel="Encuentro">
+    <title lang="es">Redes en conflicto</title>
+  </programme>
+  <programme start="20220602120000 -0300" stop="20220602123000 -0300" channel="Encuentro">
+    <title lang="es">Quereme trans. Un informe necesario</title>
+  </programme>
+  <programme start="20220602123000 -0300" stop="20220602130000 -0300" channel="Encuentro">
+    <title lang="es">Pequeños secretos de grandes cuadros</title>
+  </programme>
+  <programme start="20220602130000 -0300" stop="20220602133000 -0300" channel="Encuentro">
+    <title lang="es">Belgrano. La nación soñada</title>
+  </programme>
+  <programme start="20220602133000 -0300" stop="20220602140000 -0300" channel="Encuentro">
+    <title lang="es">La mirada de Lestido</title>
+  </programme>
+  <programme start="20220602140000 -0300" stop="20220602143000 -0300" channel="Encuentro">
+    <title lang="es">Impulso sonoro. Ciencia y música</title>
+  </programme>
+  <programme start="20220602143000 -0300" stop="20220602150000 -0300" channel="Encuentro">
+    <title lang="es">Homenajes. Gracias por el canto</title>
+  </programme>
+  <programme start="20220602150000 -0300" stop="20220602160000 -0300" channel="Encuentro">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220602160000 -0300" stop="20220602163000 -0300" channel="Encuentro">
+    <title lang="es">Habitar</title>
+  </programme>
+  <programme start="20220602163000 -0300" stop="20220602170000 -0300" channel="Encuentro">
+    <title lang="es">Ser/Estar</title>
+  </programme>
+  <programme start="20220602170000 -0300" stop="20220602180000 -0300" channel="Encuentro">
+    <title lang="es">Encuentro en el estudio</title>
+  </programme>
+  <programme start="20220602180000 -0300" stop="20220602190000 -0300" channel="Encuentro">
+    <title lang="es">Einstein del reino animal</title>
+  </programme>
+  <programme start="20220602190000 -0300" stop="20220602193000 -0300" channel="Encuentro">
+    <title lang="es">Mundos paralelos. Arte y física cuántica</title>
+  </programme>
+  <programme start="20220602193000 -0300" stop="20220602200000 -0300" channel="Encuentro">
+    <title lang="es">Antártida Argentina. Desafío polar</title>
+  </programme>
+  <programme start="20220602200000 -0300" stop="20220602203000 -0300" channel="Encuentro">
+    <title lang="es">Escándalos éticos</title>
+  </programme>
+  <programme start="20220602203000 -0300" stop="20220602210000 -0300" channel="Encuentro">
+    <title lang="es">Expreso futuro</title>
+  </programme>
+  <programme start="20220602210000 -0300" stop="20220602213000 -0300" channel="Encuentro">
+    <title lang="es">Nos vemos en Encuentro</title>
+  </programme>
+  <programme start="20220602213000 -0300" stop="20220602220000 -0300" channel="Encuentro">
+    <title lang="es">Los 90. La década que amamos odiar</title>
+  </programme>
+  <programme start="20220602220000 -0300" stop="20220602223000 -0300" channel="Encuentro">
+    <title lang="es">Mentira la verdad</title>
+  </programme>
+  <programme start="20220602223000 -0300" stop="20220602230000 -0300" channel="Encuentro">
+    <title lang="es">Retumbando la palabra</title>
+  </programme>
+  <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="Encuentro">
+    <title lang="es">Los planetas</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="TN">
     <title lang="es">Bella y Bestia por TN</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601001500 -0300" channel="A24">
-    <title lang="es">Basta Baby</title>
+  <programme start="20220602000000 -0300" stop="20220602010000 -0300" channel="TN">
+    <title lang="es">TN de noche</title>
   </programme>
-  <programme start="20220601001500 -0300" stop="20220601020000 -0300" channel="A24">
-    <title lang="es">Resumen A24</title>
+  <programme start="20220602010000 -0300" stop="20220602050000 -0300" channel="TN">
+    <title lang="es">Re despiertos</title>
   </programme>
-  <programme start="20220601020000 -0300" stop="20220601030000 -0300" channel="A24">
-    <title lang="es">TeveCompras</title>
+  <programme start="20220602050000 -0300" stop="20220602060000 -0300" channel="TN">
+    <title lang="es">Tiempo, tránsito y noticias</title>
   </programme>
-  <programme start="20220601030000 -0300" stop="20220601043000 -0300" channel="A24">
-    <title lang="es">Resumen A24</title>
+  <programme start="20220602060000 -0300" stop="20220602100000 -0300" channel="TN">
+    <title lang="es">TN de 6 a 10</title>
   </programme>
-  <programme start="20220601043000 -0300" stop="20220601060000 -0300" channel="A24">
-    <title lang="es">Resumen A24</title>
+  <programme start="20220602100000 -0300" stop="20220602130000 -0300" channel="TN">
+    <title lang="es">TN de 10 a 13</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601080000 -0300" channel="A24">
-    <title lang="es">Buenos días, América</title>
+  <programme start="20220602130000 -0300" stop="20220602160000 -0300" channel="TN">
+    <title lang="es">Nuestra tarde</title>
   </programme>
-  <programme start="20220601080000 -0300" stop="20220601100000 -0300" channel="A24">
-    <title lang="es">BDA Extra</title>
+  <programme start="20220602160000 -0300" stop="20220602180000 -0300" channel="TN">
+    <title lang="es">Está pasando</title>
   </programme>
-  <programme start="20220601100000 -0300" stop="20220601130000 -0300" channel="A24">
-    <title lang="es">Equipo de noticias A24</title>
+  <programme start="20220602180000 -0300" stop="20220602200000 -0300" channel="TN">
+    <title lang="es">TN Central</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601150000 -0300" channel="A24">
-    <title lang="es">MMD Maxi Mediodía</title>
+  <programme start="20220602200000 -0300" stop="20220602220000 -0300" channel="TN">
+    <title lang="es">Solo una vuelta más</title>
   </programme>
-  <programme start="20220601150000 -0300" stop="20220601170000 -0300" channel="A24">
-    <title lang="es">El diario de la tarde</title>
+  <programme start="20220602220000 -0300" stop="20220602230000 -0300" channel="TN">
+    <title lang="es">A dos voces</title>
   </programme>
-  <programme start="20220601170000 -0300" stop="20220601190000 -0300" channel="A24">
-    <title lang="es">El noti de A24</title>
-  </programme>
-  <programme start="20220601190000 -0300" stop="20220601210000 -0300" channel="A24">
-    <title lang="es">Para que sepas</title>
-  </programme>
-  <programme start="20220601210000 -0300" stop="20220601230000 -0300" channel="A24">
-    <title lang="es">Viviana con vos</title>
+  <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="TN">
+    <title lang="es">Bella y Bestia por TN</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602001500 -0300" channel="A24">
     <title lang="es">Basta Baby</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601000000 -0300" channel="C5N">
-    <title lang="es">Recalculando</title>
+  <programme start="20220602001500 -0300" stop="20220602020000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601003000 -0300" channel="C5N">
-    <title lang="es">Resumen de medianoche</title>
+  <programme start="20220602020000 -0300" stop="20220602030000 -0300" channel="A24">
+    <title lang="es">TeveCompras</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601013000 -0300" channel="C5N">
-    <title lang="es">Hacete cargo</title>
+  <programme start="20220602030000 -0300" stop="20220602043000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
   </programme>
-  <programme start="20220601013000 -0300" stop="20220601030000 -0300" channel="C5N">
-    <title lang="es">Minuto uno</title>
+  <programme start="20220602043000 -0300" stop="20220602060000 -0300" channel="A24">
+    <title lang="es">Resumen A24</title>
   </programme>
-  <programme start="20220601030000 -0300" stop="20220601033000 -0300" channel="C5N">
-    <title lang="es">C5N música</title>
+  <programme start="20220602060000 -0300" stop="20220602080000 -0300" channel="A24">
+    <title lang="es">Buenos días, América</title>
   </programme>
-  <programme start="20220601033000 -0300" stop="20220601040000 -0300" channel="C5N">
-    <title lang="es">Chicas pochocleras</title>
+  <programme start="20220602080000 -0300" stop="20220602100000 -0300" channel="A24">
+    <title lang="es">BDA Extra</title>
   </programme>
-  <programme start="20220601040000 -0300" stop="20220601043000 -0300" channel="C5N">
-    <title lang="es">Right Now</title>
+  <programme start="20220602100000 -0300" stop="20220602130000 -0300" channel="A24">
+    <title lang="es">Equipo de noticias A24</title>
   </programme>
-  <programme start="20220601043000 -0300" stop="20220601050000 -0300" channel="C5N">
-    <title lang="es">Resumen de medianoche</title>
+  <programme start="20220602130000 -0300" stop="20220602150000 -0300" channel="A24">
+    <title lang="es">MMD Maxi Mediodía</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601063000 -0300" channel="C5N">
-    <title lang="es">Bien temprano</title>
+  <programme start="20220602150000 -0300" stop="20220602170000 -0300" channel="A24">
+    <title lang="es">El diario de la tarde</title>
   </programme>
-  <programme start="20220601063000 -0300" stop="20220601090000 -0300" channel="C5N">
-    <title lang="es">Mañanas argentinas</title>
+  <programme start="20220602170000 -0300" stop="20220602190000 -0300" channel="A24">
+    <title lang="es">El noti de A24</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601110000 -0300" channel="C5N">
-    <title lang="es">Turno mañana C5N</title>
+  <programme start="20220602190000 -0300" stop="20220602210000 -0300" channel="A24">
+    <title lang="es">Para que sepas</title>
   </programme>
-  <programme start="20220601110000 -0300" stop="20220601130000 -0300" channel="C5N">
-    <title lang="es">Nos vemos</title>
+  <programme start="20220602210000 -0300" stop="20220602230000 -0300" channel="A24">
+    <title lang="es">Viviana con vos</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601150000 -0300" channel="C5N">
-    <title lang="es">La tarde x C5N</title>
-  </programme>
-  <programme start="20220601150000 -0300" stop="20220601170000 -0300" channel="C5N">
-    <title lang="es">Minuto a minuto</title>
-  </programme>
-  <programme start="20220601170000 -0300" stop="20220601180000 -0300" channel="C5N">
-    <title lang="es">Hora pico</title>
-  </programme>
-  <programme start="20220601180000 -0300" stop="20220601190000 -0300" channel="C5N">
-    <title lang="es">El diario</title>
-  </programme>
-  <programme start="20220601190000 -0300" stop="20220601200000 -0300" channel="C5N">
-    <title lang="es">La hora de Víctor Hugo</title>
-  </programme>
-  <programme start="20220601200000 -0300" stop="20220601213000 -0300" channel="C5N">
-    <title lang="es">Minuto uno</title>
-  </programme>
-  <programme start="20220601213000 -0300" stop="20220601230000 -0300" channel="C5N">
-    <title lang="es">Desafío 20.22</title>
+  <programme start="20220602230000 -0300" stop="20220603001500 -0300" channel="A24">
+    <title lang="es">Basta Baby</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="C5N">
     <title lang="es">Brotes verdes</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601000000 -0300" channel="Crónica TV">
-    <title lang="es">Antes de medianoche</title>
+  <programme start="20220602000000 -0300" stop="20220602003000 -0300" channel="C5N">
+    <title lang="es">Resumen de medianoche</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601001500 -0300" channel="Crónica TV">
-    <title lang="es">Feliz vida</title>
+  <programme start="20220602003000 -0300" stop="20220602013000 -0300" channel="C5N">
+    <title lang="es">Hacete cargo</title>
   </programme>
-  <programme start="20220601001500 -0300" stop="20220601004500 -0300" channel="Crónica TV">
-    <title lang="es">Mensaje de Dios</title>
+  <programme start="20220602013000 -0300" stop="20220602030000 -0300" channel="C5N">
+    <title lang="es">Minuto uno</title>
   </programme>
-  <programme start="20220601004500 -0300" stop="20220601010000 -0300" channel="Crónica TV">
-    <title lang="es">Cielos abiertos</title>
+  <programme start="20220602030000 -0300" stop="20220602040000 -0300" channel="C5N">
+    <title lang="es">Brotes verdes</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601011500 -0300" channel="Crónica TV">
-    <title lang="es">El tasador</title>
+  <programme start="20220602040000 -0300" stop="20220602043000 -0300" channel="C5N">
+    <title lang="es">Chicas pochocleras</title>
   </programme>
-  <programme start="20220601011500 -0300" stop="20220601013000 -0300" channel="Crónica TV">
-    <title lang="es">Mensaje de Dios</title>
+  <programme start="20220602043000 -0300" stop="20220602050000 -0300" channel="C5N">
+    <title lang="es">Resumen de medianoche</title>
   </programme>
-  <programme start="20220601013000 -0300" stop="20220601020000 -0300" channel="Crónica TV">
-    <title lang="es">Mensaje de Dios</title>
+  <programme start="20220602050000 -0300" stop="20220602063000 -0300" channel="C5N">
+    <title lang="es">Bien temprano</title>
   </programme>
-  <programme start="20220601020000 -0300" stop="20220601023000 -0300" channel="Crónica TV">
-    <title lang="es">Mensaje de Dios</title>
+  <programme start="20220602063000 -0300" stop="20220602090000 -0300" channel="C5N">
+    <title lang="es">Mañanas argentinas</title>
   </programme>
-  <programme start="20220601023000 -0300" stop="20220601030000 -0300" channel="Crónica TV">
-    <title lang="es">El tasador</title>
+  <programme start="20220602090000 -0300" stop="20220602110000 -0300" channel="C5N">
+    <title lang="es">Turno mañana C5N</title>
   </programme>
-  <programme start="20220601030000 -0300" stop="20220601033000 -0300" channel="Crónica TV">
-    <title lang="es">El tasador</title>
+  <programme start="20220602110000 -0300" stop="20220602130000 -0300" channel="C5N">
+    <title lang="es">Nos vemos</title>
   </programme>
-  <programme start="20220601033000 -0300" stop="20220601040000 -0300" channel="Crónica TV">
-    <title lang="es">El tasador</title>
+  <programme start="20220602130000 -0300" stop="20220602150000 -0300" channel="C5N">
+    <title lang="es">La tarde x C5N</title>
   </programme>
-  <programme start="20220601040000 -0300" stop="20220601063000 -0300" channel="Crónica TV">
-    <title lang="es">Es muy temprano</title>
+  <programme start="20220602150000 -0300" stop="20220602170000 -0300" channel="C5N">
+    <title lang="es">Minuto a minuto</title>
   </programme>
-  <programme start="20220601063000 -0300" stop="20220601090000 -0300" channel="Crónica TV">
-    <title lang="es">La primera</title>
+  <programme start="20220602170000 -0300" stop="20220602180000 -0300" channel="C5N">
+    <title lang="es">Hora pico</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601120000 -0300" channel="Crónica TV">
-    <title lang="es">Tiempo real</title>
+  <programme start="20220602180000 -0300" stop="20220602190000 -0300" channel="C5N">
+    <title lang="es">El diario</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601140000 -0300" channel="Crónica TV">
-    <title lang="es">Chiche 2021</title>
+  <programme start="20220602190000 -0300" stop="20220602200000 -0300" channel="C5N">
+    <title lang="es">La hora de Víctor Hugo</title>
   </programme>
-  <programme start="20220601140000 -0300" stop="20220601160000 -0300" channel="Crónica TV">
-    <title lang="es">La tarde de Crónica</title>
+  <programme start="20220602200000 -0300" stop="20220602213000 -0300" channel="C5N">
+    <title lang="es">Minuto uno</title>
   </programme>
-  <programme start="20220601160000 -0300" stop="20220601180000 -0300" channel="Crónica TV">
-    <title lang="es">Crónicas 2022</title>
+  <programme start="20220602213000 -0300" stop="20220602230000 -0300" channel="C5N">
+    <title lang="es">Desafío 20.22</title>
   </programme>
-  <programme start="20220601180000 -0300" stop="20220601210000 -0300" channel="Crónica TV">
-    <title lang="es">Siempre noticias</title>
-  </programme>
-  <programme start="20220601210000 -0300" stop="20220601213000 -0300" channel="Crónica TV">
-    <title lang="es">Detector de mentiras</title>
-  </programme>
-  <programme start="20220601213000 -0300" stop="20220601220000 -0300" channel="Crónica TV">
-    <title lang="es">Siempre noticias</title>
-  </programme>
-  <programme start="20220601220000 -0300" stop="20220601230000 -0300" channel="Crónica TV">
-    <title lang="es">Crónica central</title>
+  <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="C5N">
+    <title lang="es">Hagan algo</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="Crónica TV">
     <title lang="es">Antes de medianoche</title>
   </programme>
-  <programme start="20220531220000 -0300" stop="20220601000000 -0300" channel="Canal 26">
-    <title lang="es">PM Noticias</title>
+  <programme start="20220602000000 -0300" stop="20220602001500 -0300" channel="Crónica TV">
+    <title lang="es">Feliz vida</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601040000 -0300" channel="Canal 26">
-    <title lang="es">Trasnoche 26</title>
+  <programme start="20220602001500 -0300" stop="20220602004500 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
   </programme>
-  <programme start="20220601040000 -0300" stop="20220601060000 -0300" channel="Canal 26">
-    <title lang="es">Primeras noticias</title>
+  <programme start="20220602004500 -0300" stop="20220602010000 -0300" channel="Crónica TV">
+    <title lang="es">Cielos abiertos</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601090000 -0300" channel="Canal 26">
-    <title lang="es">La mañana de Canal 26</title>
+  <programme start="20220602010000 -0300" stop="20220602011500 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601120000 -0300" channel="Canal 26">
-    <title lang="es">AM Noticias</title>
+  <programme start="20220602011500 -0300" stop="20220602013000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601140000 -0300" channel="Canal 26">
-    <title lang="es">Vivo al mediodía</title>
+  <programme start="20220602013000 -0300" stop="20220602020000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
   </programme>
-  <programme start="20220601140000 -0300" stop="20220601170000 -0300" channel="Canal 26">
-    <title lang="es">La tarde de Canal 26</title>
+  <programme start="20220602020000 -0300" stop="20220602023000 -0300" channel="Crónica TV">
+    <title lang="es">Mensaje de Dios</title>
   </programme>
-  <programme start="20220601170000 -0300" stop="20220601200000 -0300" channel="Canal 26">
-    <title lang="es">El regreso de Canal 26</title>
+  <programme start="20220602023000 -0300" stop="20220602030000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601220000 -0300" channel="Canal 26">
-    <title lang="es">La noche de Canal 26</title>
+  <programme start="20220602030000 -0300" stop="20220602033000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220602033000 -0300" stop="20220602040000 -0300" channel="Crónica TV">
+    <title lang="es">El tasador</title>
+  </programme>
+  <programme start="20220602040000 -0300" stop="20220602063000 -0300" channel="Crónica TV">
+    <title lang="es">Es muy temprano</title>
+  </programme>
+  <programme start="20220602063000 -0300" stop="20220602090000 -0300" channel="Crónica TV">
+    <title lang="es">La primera</title>
+  </programme>
+  <programme start="20220602090000 -0300" stop="20220602120000 -0300" channel="Crónica TV">
+    <title lang="es">Tiempo real</title>
+  </programme>
+  <programme start="20220602120000 -0300" stop="20220602140000 -0300" channel="Crónica TV">
+    <title lang="es">Chiche 2021</title>
+  </programme>
+  <programme start="20220602140000 -0300" stop="20220602160000 -0300" channel="Crónica TV">
+    <title lang="es">La tarde de Crónica</title>
+  </programme>
+  <programme start="20220602160000 -0300" stop="20220602180000 -0300" channel="Crónica TV">
+    <title lang="es">Crónicas 2022</title>
+  </programme>
+  <programme start="20220602180000 -0300" stop="20220602210000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220602210000 -0300" stop="20220602213000 -0300" channel="Crónica TV">
+    <title lang="es">Detector de mentiras</title>
+  </programme>
+  <programme start="20220602213000 -0300" stop="20220602220000 -0300" channel="Crónica TV">
+    <title lang="es">Siempre noticias</title>
+  </programme>
+  <programme start="20220602220000 -0300" stop="20220602230000 -0300" channel="Crónica TV">
+    <title lang="es">Crónica central</title>
+  </programme>
+  <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="Crónica TV">
+    <title lang="es">Antes de medianoche</title>
   </programme>
   <programme start="20220601220000 -0300" stop="20220602000000 -0300" channel="Canal 26">
     <title lang="es">PM Noticias</title>
   </programme>
-  <programme start="20220531220000 -0300" stop="20220601000000 -0300" channel="LN+">
-    <title lang="es">Odisea Argentina</title>
+  <programme start="20220602000000 -0300" stop="20220602040000 -0300" channel="Canal 26">
+    <title lang="es">Trasnoche 26</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601010000 -0300" channel="LN+">
-    <title lang="es">Resumen de la semana</title>
+  <programme start="20220602040000 -0300" stop="20220602060000 -0300" channel="Canal 26">
+    <title lang="es">Primeras noticias</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601033000 -0300" channel="LN+">
-    <title lang="es">+Info a la tarde</title>
+  <programme start="20220602060000 -0300" stop="20220602090000 -0300" channel="Canal 26">
+    <title lang="es">La mañana de Canal 26</title>
   </programme>
-  <programme start="20220601033000 -0300" stop="20220601053000 -0300" channel="LN+">
-    <title lang="es">El noticiero de LN+</title>
+  <programme start="20220602090000 -0300" stop="20220602120000 -0300" channel="Canal 26">
+    <title lang="es">AM Noticias</title>
   </programme>
-  <programme start="20220601053000 -0300" stop="20220601063000 -0300" channel="LN+">
-    <title lang="es">+ Realidad</title>
+  <programme start="20220602120000 -0300" stop="20220602140000 -0300" channel="Canal 26">
+    <title lang="es">Vivo al mediodía</title>
   </programme>
-  <programme start="20220601063000 -0300" stop="20220601083000 -0300" channel="LN+">
-    <title lang="es">Noticiero AM</title>
+  <programme start="20220602140000 -0300" stop="20220602170000 -0300" channel="Canal 26">
+    <title lang="es">La tarde de Canal 26</title>
   </programme>
-  <programme start="20220601083000 -0300" stop="20220601100000 -0300" channel="LN+">
-    <title lang="es">08:30 AM</title>
+  <programme start="20220602170000 -0300" stop="20220602200000 -0300" channel="Canal 26">
+    <title lang="es">El regreso de Canal 26</title>
   </programme>
-  <programme start="20220601100000 -0300" stop="20220601130000 -0300" channel="LN+">
-    <title lang="es">Buen día Nación</title>
+  <programme start="20220602200000 -0300" stop="20220602220000 -0300" channel="Canal 26">
+    <title lang="es">La noche de Canal 26</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601150000 -0300" channel="LN+">
-    <title lang="es">+Noticias</title>
-  </programme>
-  <programme start="20220601150000 -0300" stop="20220601170000 -0300" channel="LN+">
-    <title lang="es">+Info a la tarde</title>
-  </programme>
-  <programme start="20220601170000 -0300" stop="20220601180000 -0300" channel="LN+">
-    <title lang="es">Hora 17</title>
-  </programme>
-  <programme start="20220601180000 -0300" stop="20220601200000 -0300" channel="LN+">
-    <title lang="es">El noticiero de LN+</title>
-  </programme>
-  <programme start="20220601200000 -0300" stop="20220601210000 -0300" channel="LN+">
-    <title lang="es">+ Realidad</title>
-  </programme>
-  <programme start="20220601210000 -0300" stop="20220601220000 -0300" channel="LN+">
-    <title lang="es">El diario de Leuco</title>
-  </programme>
-  <programme start="20220601220000 -0300" stop="20220601230000 -0300" channel="LN+">
-    <title lang="es">+ Voces</title>
+  <programme start="20220602220000 -0300" stop="20220603000000 -0300" channel="Canal 26">
+    <title lang="es">PM Noticias</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="LN+">
     <title lang="es">Mesa chica</title>
   </programme>
-  <programme start="20220531233000 -0300" stop="20220601000000 -0300" channel="IP">
-    <title lang="es">Malditos nerds</title>
+  <programme start="20220602000000 -0300" stop="20220602010000 -0300" channel="LN+">
+    <title lang="es">Resumen de la semana</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601003000 -0300" channel="IP">
-    <title lang="es">El planeta urbano</title>
+  <programme start="20220602010000 -0300" stop="20220602033000 -0300" channel="LN+">
+    <title lang="es">+Info a la tarde</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601010000 -0300" channel="IP">
-    <title lang="es">Hair Recovery</title>
+  <programme start="20220602033000 -0300" stop="20220602053000 -0300" channel="LN+">
+    <title lang="es">El noticiero de LN+</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601020000 -0300" channel="IP">
-    <title lang="es">Ciencia IP</title>
+  <programme start="20220602053000 -0300" stop="20220602063000 -0300" channel="LN+">
+    <title lang="es">+ Realidad</title>
   </programme>
-  <programme start="20220601020000 -0300" stop="20220601023000 -0300" channel="IP">
-    <title lang="es">Hair Recovery</title>
+  <programme start="20220602063000 -0300" stop="20220602083000 -0300" channel="LN+">
+    <title lang="es">Noticiero AM</title>
   </programme>
-  <programme start="20220601023000 -0300" stop="20220601030000 -0300" channel="IP">
-    <title lang="es">Malditos nerds</title>
+  <programme start="20220602083000 -0300" stop="20220602100000 -0300" channel="LN+">
+    <title lang="es">08:30 AM</title>
   </programme>
-  <programme start="20220601030000 -0300" stop="20220601060000 -0300" channel="IP">
-    <title lang="es">Somos PM</title>
+  <programme start="20220602100000 -0300" stop="20220602130000 -0300" channel="LN+">
+    <title lang="es">Buen día Nación</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601070000 -0300" channel="IP">
-    <title lang="es">Amanece IP</title>
+  <programme start="20220602130000 -0300" stop="20220602143000 -0300" channel="LN+">
+    <title lang="es">+Noticias</title>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601090000 -0300" channel="IP">
-    <title lang="es">IP Noticias</title>
+  <programme start="20220602143000 -0300" stop="20220602170000 -0300" channel="LN+">
+    <title lang="es">+Info a la tarde</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601120000 -0300" channel="IP">
-    <title lang="es">Imagen positiva</title>
+  <programme start="20220602170000 -0300" stop="20220602180000 -0300" channel="LN+">
+    <title lang="es">Hora 17</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601140000 -0300" channel="IP">
-    <title lang="es">IP Noticias</title>
+  <programme start="20220602180000 -0300" stop="20220602200000 -0300" channel="LN+">
+    <title lang="es">El noticiero de LN+</title>
   </programme>
-  <programme start="20220601140000 -0300" stop="20220601170000 -0300" channel="IP">
-    <title lang="es">Somos PM</title>
+  <programme start="20220602200000 -0300" stop="20220602210000 -0300" channel="LN+">
+    <title lang="es">+ Realidad</title>
   </programme>
-  <programme start="20220601170000 -0300" stop="20220601200000 -0300" channel="IP">
-    <title lang="es">Tarde a tarde</title>
+  <programme start="20220602210000 -0300" stop="20220602220000 -0300" channel="LN+">
+    <title lang="es">El diario de Leuco</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601220000 -0300" channel="IP">
-    <title lang="es">IP Noticias</title>
+  <programme start="20220602220000 -0300" stop="20220602230000 -0300" channel="LN+">
+    <title lang="es">+ Voces</title>
   </programme>
-  <programme start="20220601220000 -0300" stop="20220601233000 -0300" channel="IP">
-    <title lang="es">Redacción IP</title>
+  <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="LN+">
+    <title lang="es">+ Periodismo</title>
   </programme>
   <programme start="20220601233000 -0300" stop="20220602000000 -0300" channel="IP">
     <title lang="es">Malditos nerds</title>
   </programme>
-  <programme start="20220531210000 -0300" stop="20220601010000 -0300" channel="señal santa maría">
-    <title lang="es">Canal Santa María</title>
+  <programme start="20220602000000 -0300" stop="20220602030000 -0300" channel="IP">
+    <title lang="es">Imagen positiva</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601050000 -0300" channel="señal santa maría">
-    <title lang="es">Canal Santa María</title>
+  <programme start="20220602030000 -0300" stop="20220602060000 -0300" channel="IP">
+    <title lang="es">Somos PM</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601090000 -0300" channel="señal santa maría">
-    <title lang="es">Canal Santa María</title>
+  <programme start="20220602060000 -0300" stop="20220602070000 -0300" channel="IP">
+    <title lang="es">Amanece IP</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601130000 -0300" channel="señal santa maría">
-    <title lang="es">Canal Santa María</title>
+  <programme start="20220602070000 -0300" stop="20220602090000 -0300" channel="IP">
+    <title lang="es">IP Noticias</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601170000 -0300" channel="señal santa maría">
-    <title lang="es">Canal Santa María</title>
+  <programme start="20220602090000 -0300" stop="20220602120000 -0300" channel="IP">
+    <title lang="es">Imagen positiva</title>
   </programme>
-  <programme start="20220601170000 -0300" stop="20220601210000 -0300" channel="señal santa maría">
-    <title lang="es">Canal Santa María</title>
+  <programme start="20220602120000 -0300" stop="20220602140000 -0300" channel="IP">
+    <title lang="es">IP Noticias</title>
+  </programme>
+  <programme start="20220602140000 -0300" stop="20220602170000 -0300" channel="IP">
+    <title lang="es">Somos PM</title>
+  </programme>
+  <programme start="20220602170000 -0300" stop="20220602200000 -0300" channel="IP">
+    <title lang="es">Tarde a tarde</title>
+  </programme>
+  <programme start="20220602200000 -0300" stop="20220602220000 -0300" channel="IP">
+    <title lang="es">IP Noticias</title>
+  </programme>
+  <programme start="20220602220000 -0300" stop="20220602233000 -0300" channel="IP">
+    <title lang="es">Redacción IP</title>
+  </programme>
+  <programme start="20220602233000 -0300" stop="20220603000000 -0300" channel="IP">
+    <title lang="es">Malditos nerds</title>
   </programme>
   <programme start="20220601210000 -0300" stop="20220602010000 -0300" channel="señal santa maría">
     <title lang="es">Canal Santa María</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601000000 -0300" channel="Orbe 21">
-    <title lang="es">Reporter 21</title>
+  <programme start="20220602010000 -0300" stop="20220602050000 -0300" channel="señal santa maría">
+    <title lang="es">Canal Santa María</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601010000 -0300" channel="Orbe 21">
-    <title lang="es">Biblia, diálogo vigente</title>
+  <programme start="20220602050000 -0300" stop="20220602090000 -0300" channel="señal santa maría">
+    <title lang="es">Canal Santa María</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601013000 -0300" channel="Orbe 21">
-    <title lang="es">Arquitectura y fe</title>
+  <programme start="20220602090000 -0300" stop="20220602130000 -0300" channel="señal santa maría">
+    <title lang="es">Canal Santa María</title>
   </programme>
-  <programme start="20220601013000 -0300" stop="20220601020000 -0300" channel="Orbe 21">
-    <title lang="es">La música, los que la escuchan, los que la hacen</title>
+  <programme start="20220602130000 -0300" stop="20220602170000 -0300" channel="señal santa maría">
+    <title lang="es">Canal Santa María</title>
   </programme>
-  <programme start="20220601020000 -0300" stop="20220601023000 -0300" channel="Orbe 21">
-    <title lang="es">Tierra Santa News</title>
+  <programme start="20220602170000 -0300" stop="20220602210000 -0300" channel="señal santa maría">
+    <title lang="es">Canal Santa María</title>
   </programme>
-  <programme start="20220601023000 -0300" stop="20220601030000 -0300" channel="Orbe 21">
-    <title lang="es">Cocina franciscana</title>
-  </programme>
-  <programme start="20220601030000 -0300" stop="20220601033000 -0300" channel="Orbe 21">
-    <title lang="es">Inventario</title>
-  </programme>
-  <programme start="20220601033000 -0300" stop="20220601040000 -0300" channel="Orbe 21">
-    <title lang="es">Bichigan University</title>
-  </programme>
-  <programme start="20220601040000 -0300" stop="20220601043000 -0300" channel="Orbe 21">
-    <title lang="es">Una ventana a la fe</title>
-  </programme>
-  <programme start="20220601043000 -0300" stop="20220601050000 -0300" channel="Orbe 21">
-    <title lang="es">Punto convergente TV</title>
-  </programme>
-  <programme start="20220601050000 -0300" stop="20220601060000 -0300" channel="Orbe 21">
-    <title lang="es">La actualidad de lo bello</title>
-  </programme>
-  <programme start="20220601060000 -0300" stop="20220601070000 -0300" channel="Orbe 21">
-    <title lang="es">Los santos vienen marchando</title>
-  </programme>
-  <programme start="20220601070000 -0300" stop="20220601080000 -0300" channel="Orbe 21">
-    <title lang="es">Reporter 21</title>
-  </programme>
-  <programme start="20220601080000 -0300" stop="20220601090000 -0300" channel="Orbe 21">
-    <title lang="es">Biblia, diálogo vigente</title>
-  </programme>
-  <programme start="20220601090000 -0300" stop="20220601093000 -0300" channel="Orbe 21">
-    <title lang="es">Plantas y jardines</title>
-  </programme>
-  <programme start="20220601093000 -0300" stop="20220601100000 -0300" channel="Orbe 21">
-    <title lang="es">La música, los que la escuchan, los que la hacen</title>
-  </programme>
-  <programme start="20220601100000 -0300" stop="20220601103000 -0300" channel="Orbe 21">
-    <title lang="es">Nuestra Misa</title>
-  </programme>
-  <programme start="20220601103000 -0300" stop="20220601110000 -0300" channel="Orbe 21">
-    <title lang="es">Luz de emergencia</title>
-  </programme>
-  <programme start="20220601110000 -0300" stop="20220601113000 -0300" channel="Orbe 21">
-    <title lang="es">Cocina franciscana</title>
-  </programme>
-  <programme start="20220601113000 -0300" stop="20220601120000 -0300" channel="Orbe 21">
-    <title lang="es">Inventario</title>
-  </programme>
-  <programme start="20220601120000 -0300" stop="20220601123000 -0300" channel="Orbe 21">
-    <title lang="es">Bichigan University</title>
-  </programme>
-  <programme start="20220601123000 -0300" stop="20220601130000 -0300" channel="Orbe 21">
-    <title lang="es">El evangelio tiene calle</title>
-  </programme>
-  <programme start="20220601130000 -0300" stop="20220601133000 -0300" channel="Orbe 21">
-    <title lang="es">Punto convergente TV</title>
-  </programme>
-  <programme start="20220601133000 -0300" stop="20220601140000 -0300" channel="Orbe 21">
-    <title lang="es">Cta. Doc</title>
-  </programme>
-  <programme start="20220601140000 -0300" stop="20220601150000 -0300" channel="Orbe 21">
-    <title lang="es">Diálogos con la vida</title>
-  </programme>
-  <programme start="20220601150000 -0300" stop="20220601160000 -0300" channel="Orbe 21">
-    <title lang="es">Semanario Orbe 21</title>
-  </programme>
-  <programme start="20220601160000 -0300" stop="20220601170000 -0300" channel="Orbe 21">
-    <title lang="es">Biblia, diálogo vigente</title>
-  </programme>
-  <programme start="20220601170000 -0300" stop="20220601173000 -0300" channel="Orbe 21">
-    <title lang="es">Plantas y jardines</title>
-  </programme>
-  <programme start="20220601173000 -0300" stop="20220601180000 -0300" channel="Orbe 21">
-    <title lang="es">La música, los que la escuchan, los que la hacen</title>
-  </programme>
-  <programme start="20220601180000 -0300" stop="20220601183000 -0300" channel="Orbe 21">
-    <title lang="es">Bichigan University</title>
-  </programme>
-  <programme start="20220601183000 -0300" stop="20220601190000 -0300" channel="Orbe 21">
-    <title lang="es">El evangelio tiene calle</title>
-  </programme>
-  <programme start="20220601190000 -0300" stop="20220601193000 -0300" channel="Orbe 21">
-    <title lang="es">Nuestra Misa</title>
-  </programme>
-  <programme start="20220601193000 -0300" stop="20220601200000 -0300" channel="Orbe 21">
-    <title lang="es">Luz de emergencia</title>
-  </programme>
-  <programme start="20220601200000 -0300" stop="20220601203000 -0300" channel="Orbe 21">
-    <title lang="es">Cocina franciscana</title>
-  </programme>
-  <programme start="20220601203000 -0300" stop="20220601210000 -0300" channel="Orbe 21">
-    <title lang="es">Inventario</title>
-  </programme>
-  <programme start="20220601210000 -0300" stop="20220601213000 -0300" channel="Orbe 21">
-    <title lang="es">Punto convergente TV</title>
-  </programme>
-  <programme start="20220601213000 -0300" stop="20220601220000 -0300" channel="Orbe 21">
-    <title lang="es">Cta. Doc</title>
-  </programme>
-  <programme start="20220601220000 -0300" stop="20220601230000 -0300" channel="Orbe 21">
-    <title lang="es">Diálogos con la vida</title>
+  <programme start="20220602210000 -0300" stop="20220603010000 -0300" channel="señal santa maría">
+    <title lang="es">Canal Santa María</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602000000 -0300" channel="Orbe 21">
     <title lang="es">Semanario Orbe 21</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601003000 -0300" channel="TyC Sports">
-    <title lang="es">Todo lo que dejó la jornada futbolera</title>
+  <programme start="20220602000000 -0300" stop="20220602010000 -0300" channel="Orbe 21">
+    <title lang="es">Documentales</title>
   </programme>
-  <programme start="20220601003000 -0300" stop="20220601013000 -0300" channel="TyC Sports">
-    <title lang="es">Carburando</title>
+  <programme start="20220602010000 -0300" stop="20220602013000 -0300" channel="Orbe 21">
+    <title lang="es">Inventario</title>
   </programme>
-  <programme start="20220601013000 -0300" stop="20220601033000 -0300" channel="TyC Sports">
-    <title lang="es">Líbero</title>
+  <programme start="20220602013000 -0300" stop="20220602020000 -0300" channel="Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuchan</title>
   </programme>
-  <programme start="20220601033000 -0300" stop="20220601050000 -0300" channel="TyC Sports">
-    <title lang="es">Temperley vs. Belgrano, Fecha 17, Estadio Alfredo Beranger</title>
+  <programme start="20220602020000 -0300" stop="20220602023000 -0300" channel="Orbe 21">
+    <title lang="es">Vaticano Orbe 21</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601070000 -0300" channel="TyC Sports">
-    <title lang="es">Dep. Morón vs. Dep. Riestra, Fecha 17, Estadio Nuevo Francisco Urbano</title>
+  <programme start="20220602023000 -0300" stop="20220602030000 -0300" channel="Orbe 21">
+    <title lang="es">Cta. Doc</title>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601090000 -0300" channel="TyC Sports">
-    <title lang="es">TyC Sports</title>
+  <programme start="20220602030000 -0300" stop="20220602033000 -0300" channel="Orbe 21">
+    <title lang="es">Lo mejor de ti</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601103000 -0300" channel="TyC Sports">
-    <title lang="es">TyC Sports</title>
+  <programme start="20220602033000 -0300" stop="20220602040000 -0300" channel="Orbe 21">
+    <title lang="es">Bichigan University</title>
   </programme>
-  <programme start="20220601103000 -0300" stop="20220601120000 -0300" channel="TyC Sports">
-    <title lang="es">TyC Sports</title>
+  <programme start="20220602040000 -0300" stop="20220602043000 -0300" channel="Orbe 21">
+    <title lang="es">Tierra Santa News</title>
   </programme>
-  <programme start="20220601120000 -0300" stop="20220601140000 -0300" channel="TyC Sports">
-    <title lang="es">Presión alta</title>
+  <programme start="20220602043000 -0300" stop="20220602050000 -0300" channel="Orbe 21">
+    <title lang="es">Documentales</title>
   </programme>
-  <programme start="20220601140000 -0300" stop="20220601160000 -0300" channel="TyC Sports">
-    <title lang="es">Líbero</title>
+  <programme start="20220602050000 -0300" stop="20220602053000 -0300" channel="Orbe 21">
+    <title lang="es">Punto convergente TV</title>
   </programme>
-  <programme start="20220601160000 -0300" stop="20220601190000 -0300" channel="TyC Sports">
-    <title lang="es">TyC Sports</title>
+  <programme start="20220602053000 -0300" stop="20220602060000 -0300" channel="Orbe 21">
+    <title lang="es">Cine y series 21</title>
   </programme>
-  <programme start="20220601190000 -0300" stop="20220601210000 -0300" channel="TyC Sports">
-    <title lang="es">Presión alta</title>
+  <programme start="20220602060000 -0300" stop="20220602063000 -0300" channel="Orbe 21">
+    <title lang="es">Inventario</title>
   </programme>
-  <programme start="20220601210000 -0300" stop="20220601230000 -0300" channel="TyC Sports">
-    <title lang="es">Básquet Liga Nacional</title>
+  <programme start="20220602063000 -0300" stop="20220602070000 -0300" channel="Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuchan</title>
+  </programme>
+  <programme start="20220602070000 -0300" stop="20220602080000 -0300" channel="Orbe 21">
+    <title lang="es">Diálogos con la vida</title>
+  </programme>
+  <programme start="20220602080000 -0300" stop="20220602083000 -0300" channel="Orbe 21">
+    <title lang="es">De fábrica de pan y otros sabores</title>
+  </programme>
+  <programme start="20220602083000 -0300" stop="20220602090000 -0300" channel="Orbe 21">
+    <title lang="es">Bichigan University</title>
+  </programme>
+  <programme start="20220602090000 -0300" stop="20220602093000 -0300" channel="Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220602093000 -0300" stop="20220602100000 -0300" channel="Orbe 21">
+    <title lang="es">HM Salud</title>
+  </programme>
+  <programme start="20220602100000 -0300" stop="20220602103000 -0300" channel="Orbe 21">
+    <title lang="es">Nuestra Misa</title>
+  </programme>
+  <programme start="20220602103000 -0300" stop="20220602110000 -0300" channel="Orbe 21">
+    <title lang="es">Cta. Doc</title>
+  </programme>
+  <programme start="20220602110000 -0300" stop="20220602113000 -0300" channel="Orbe 21">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20220602113000 -0300" stop="20220602120000 -0300" channel="Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220602120000 -0300" stop="20220602123000 -0300" channel="Orbe 21">
+    <title lang="es">Cocina franciscana</title>
+  </programme>
+  <programme start="20220602123000 -0300" stop="20220602130000 -0300" channel="Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220602130000 -0300" stop="20220602133000 -0300" channel="Orbe 21">
+    <title lang="es">La actualidad de lo bello</title>
+  </programme>
+  <programme start="20220602133000 -0300" stop="20220602140000 -0300" channel="Orbe 21">
+    <title lang="es">Historias de vida</title>
+  </programme>
+  <programme start="20220602140000 -0300" stop="20220602143000 -0300" channel="Orbe 21">
+    <title lang="es">Una ventana a la fe</title>
+  </programme>
+  <programme start="20220602143000 -0300" stop="20220602150000 -0300" channel="Orbe 21">
+    <title lang="es">Punto convergente TV</title>
+  </programme>
+  <programme start="20220602150000 -0300" stop="20220602153000 -0300" channel="Orbe 21">
+    <title lang="es">Tierra Santa News</title>
+  </programme>
+  <programme start="20220602153000 -0300" stop="20220602160000 -0300" channel="Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuchan</title>
+  </programme>
+  <programme start="20220602160000 -0300" stop="20220602170000 -0300" channel="Orbe 21">
+    <title lang="es">Audiencia Vaticano</title>
+  </programme>
+  <programme start="20220602170000 -0300" stop="20220602173000 -0300" channel="Orbe 21">
+    <title lang="es">Lo mejor de ti</title>
+  </programme>
+  <programme start="20220602173000 -0300" stop="20220602180000 -0300" channel="Orbe 21">
+    <title lang="es">La música, los que la escuchan, los que la hacen</title>
+  </programme>
+  <programme start="20220602180000 -0300" stop="20220602183000 -0300" channel="Orbe 21">
+    <title lang="es">Bichigan University</title>
+  </programme>
+  <programme start="20220602183000 -0300" stop="20220602190000 -0300" channel="Orbe 21">
+    <title lang="es">De fábrica de pan y otros sabores</title>
+  </programme>
+  <programme start="20220602190000 -0300" stop="20220602193000 -0300" channel="Orbe 21">
+    <title lang="es">Nuestra Misa</title>
+  </programme>
+  <programme start="20220602193000 -0300" stop="20220602200000 -0300" channel="Orbe 21">
+    <title lang="es">La música... los que la hacen... los que la escuchan</title>
+  </programme>
+  <programme start="20220602200000 -0300" stop="20220602203000 -0300" channel="Orbe 21">
+    <title lang="es">Cta. Doc</title>
+  </programme>
+  <programme start="20220602203000 -0300" stop="20220602210000 -0300" channel="Orbe 21">
+    <title lang="es">Cine y series 21</title>
+  </programme>
+  <programme start="20220602210000 -0300" stop="20220602213000 -0300" channel="Orbe 21">
+    <title lang="es">Inventario</title>
+  </programme>
+  <programme start="20220602213000 -0300" stop="20220602220000 -0300" channel="Orbe 21">
+    <title lang="es">Cocina franciscana</title>
+  </programme>
+  <programme start="20220602220000 -0300" stop="20220602230000 -0300" channel="Orbe 21">
+    <title lang="es">Audiencia Vaticano</title>
+  </programme>
+  <programme start="20220602230000 -0300" stop="20220603000000 -0300" channel="Orbe 21">
+    <title lang="es">Vox Dei, confesiones del rock</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602010000 -0300" channel="TyC Sports">
     <title lang="es">TyC Sports</title>
   </programme>
-  <programme start="20220531220600 -0300" stop="20220601000000 -0300" channel="FOX Sports">
-    <title lang="es">Monterrey vs. Guadalajara, Final</title>
+  <programme start="20220602010000 -0300" stop="20220602013000 -0300" channel="TyC Sports">
+    <title lang="es">Upgrade Golf</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601010000 -0300" channel="FOX Sports">
-    <title lang="es">Boca Juniors campeón Apertura 2003</title>
+  <programme start="20220602013000 -0300" stop="20220602020000 -0300" channel="TyC Sports">
+    <title lang="es">Show Nacional</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601030000 -0300" channel="FOX Sports">
-    <title lang="es">Benfica (Por) vs. Liverpool (Ing), Cuartos de final</title>
+  <programme start="20220602020000 -0300" stop="20220602040000 -0300" channel="TyC Sports">
+    <title lang="es">Líbero</title>
   </programme>
-  <programme start="20220601030000 -0300" stop="20220601060000 -0300" channel="FOX Sports">
-    <title lang="es">WWE Raw</title>
+  <programme start="20220602040000 -0300" stop="20220602050000 -0300" channel="TyC Sports">
+    <title lang="es">Carburando</title>
   </programme>
-  <programme start="20220601060000 -0300" stop="20220601070000 -0300" channel="FOX Sports">
-    <title lang="es">Expediente fútbol</title>
+  <programme start="20220602050000 -0300" stop="20220602070000 -0300" channel="TyC Sports">
+    <title lang="es">Básquet Liga Nacional</title>
   </programme>
-  <programme start="20220601070000 -0300" stop="20220601090000 -0300" channel="FOX Sports">
-    <title lang="es">ACB, basquetbol liga española</title>
+  <programme start="20220602070000 -0300" stop="20220602090000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
   </programme>
-  <programme start="20220601090000 -0300" stop="20220601110000 -0300" channel="FOX Sports">
-    <title lang="es">Palmeiras (Bra) vs. Ind. Petrolero (Bol), Fecha 2</title>
+  <programme start="20220602090000 -0300" stop="20220602103000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
   </programme>
-  <programme start="20220601110000 -0300" stop="20220601130000 -0300" channel="FOX Sports">
-    <title lang="es">Independiente vs. River Plate, Fecha 9, Estadio Libertadores de América</title>
+  <programme start="20220602103000 -0300" stop="20220602120000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601153000 -0300" channel="FOX Sports">
-    <title lang="es">Real Madrid (Esp) vs. Chelsea (Ing), Cuartos de final</title>
+  <programme start="20220602120000 -0300" stop="20220602140000 -0300" channel="TyC Sports">
+    <title lang="es">Presión alta</title>
   </programme>
-  <programme start="20220601153000 -0300" stop="20220601163000 -0300" channel="FOX Sports">
-    <title lang="es">The Ultimate Fighter</title>
+  <programme start="20220602140000 -0300" stop="20220602160000 -0300" channel="TyC Sports">
+    <title lang="es">Líbero</title>
   </programme>
-  <programme start="20220601163000 -0300" stop="20220601183000 -0300" channel="FOX Sports">
-    <title lang="es">ACB, basquetbol liga española</title>
+  <programme start="20220602160000 -0300" stop="20220602190000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
   </programme>
-  <programme start="20220601183000 -0300" stop="20220601190000 -0300" channel="FOX Sports">
-    <title lang="es">Expediente fútbol</title>
+  <programme start="20220602190000 -0300" stop="20220602210000 -0300" channel="TyC Sports">
+    <title lang="es">Presión alta</title>
   </programme>
-  <programme start="20220601190000 -0300" stop="20220601210000 -0300" channel="FOX Sports">
-    <title lang="es">River Plate vs. Boca Juniors, Semifinal</title>
+  <programme start="20220602210000 -0300" stop="20220602230000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
   </programme>
-  <programme start="20220601210000 -0300" stop="20220601220000 -0300" channel="FOX Sports">
-    <title lang="es">UFC Clásicos</title>
-  </programme>
-  <programme start="20220601220000 -0300" stop="20220601230000 -0300" channel="FOX Sports">
-    <title lang="es">River Plate campeón Clausura 2004</title>
+  <programme start="20220602230000 -0300" stop="20220603010000 -0300" channel="TyC Sports">
+    <title lang="es">TyC Sports</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602010000 -0300" channel="FOX Sports">
     <title lang="es">Palmeiras (Bra) vs. Ind. Petrolero (Bol), Fecha 2</title>
   </programme>
-  <programme start="20220531210000 -0300" stop="20220601000000 -0300" channel="FOX Sports 2">
-    <title lang="es">WWE Raw</title>
+  <programme start="20220602010000 -0300" stop="20220602033000 -0300" channel="FOX Sports">
+    <title lang="es">Real Madrid (Esp) vs. Chelsea (Ing), Cuartos de final</title>
   </programme>
-  <programme start="20220601000000 -0300" stop="20220601030000 -0300" channel="FOX Sports 2">
-    <title lang="es">UFC Reloaded</title>
+  <programme start="20220602033000 -0300" stop="20220602053000 -0300" channel="FOX Sports">
+    <title lang="es">ACB, basquetbol liga española</title>
   </programme>
-  <programme start="20220601030000 -0300" stop="20220601050000 -0300" channel="FOX Sports 2">
-    <title lang="es">Racing Club (Arg) vs. Sao Paulo (Bra), Octavos de final</title>
+  <programme start="20220602053000 -0300" stop="20220602060000 -0300" channel="FOX Sports">
+    <title lang="es">UFC Ultimate Knockouts</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601070000 -0300" channel="FOX Sports 2">
-    <title lang="es">Fórmula 1</title>
-  </programme>
-  <programme start="20220601070000 -0300" stop="20220601090000 -0300" channel="FOX Sports 2">
-    <title lang="es">Porto (Por) vs. Atl. Madrid (Esp), Fecha 6</title>
-  </programme>
-  <programme start="20220601090000 -0300" stop="20220601110000 -0300" channel="FOX Sports 2">
-    <title lang="es">UFC Clásicos</title>
-  </programme>
-  <programme start="20220601110000 -0300" stop="20220601120000 -0300" channel="FOX Sports 2">
-    <title lang="es">WWE Vintage</title>
-  </programme>
-  <programme start="20220601120000 -0300" stop="20220601140000 -0300" channel="FOX Sports 2">
-    <title lang="es">Fórmula 1</title>
-  </programme>
-  <programme start="20220601140000 -0300" stop="20220601160000 -0300" channel="FOX Sports 2">
-    <title lang="es">Barcelona (Ecu) vs. Vélez (Arg), Octavos de final</title>
-  </programme>
-  <programme start="20220601160000 -0300" stop="20220601170000 -0300" channel="FOX Sports 2">
+  <programme start="20220602060000 -0300" stop="20220602070000 -0300" channel="FOX Sports">
     <title lang="es">Expediente fútbol</title>
   </programme>
-  <programme start="20220601170000 -0300" stop="20220601190000 -0300" channel="FOX Sports 2">
-    <title lang="es">Fórmula 1</title>
+  <programme start="20220602070000 -0300" stop="20220602090000 -0300" channel="FOX Sports">
+    <title lang="es">ACB, basquetbol liga española</title>
   </programme>
-  <programme start="20220601190000 -0300" stop="20220601200000 -0300" channel="FOX Sports 2">
+  <programme start="20220602090000 -0300" stop="20220602110000 -0300" channel="FOX Sports">
+    <title lang="es">Talleres (Arg) vs. Flamengo (Bra), Fecha 4</title>
+  </programme>
+  <programme start="20220602110000 -0300" stop="20220602130000 -0300" channel="FOX Sports">
+    <title lang="es">Newell’s Old Boys vs. Rosario Central, Fecha 24, Estadio Marcelo Bielsa</title>
+  </programme>
+  <programme start="20220602130000 -0300" stop="20220602150000 -0300" channel="FOX Sports">
+    <title lang="es">Villarreal (Esp) vs. Liverpool (Ing), Semifinal</title>
+  </programme>
+  <programme start="20220602150000 -0300" stop="20220602180000 -0300" channel="FOX Sports">
+    <title lang="es">UFC</title>
+  </programme>
+  <programme start="20220602180000 -0300" stop="20220602190000 -0300" channel="FOX Sports">
+    <title lang="es">River Plate vs. Lanus, Semifinal</title>
+  </programme>
+  <programme start="20220602190000 -0300" stop="20220602210000 -0300" channel="FOX Sports">
+    <title lang="es">At. Mineiro (Bra) vs. Olimpia (Par), Final</title>
+  </programme>
+  <programme start="20220602210000 -0300" stop="20220602220000 -0300" channel="FOX Sports">
     <title lang="es">UFC Clásicos</title>
   </programme>
-  <programme start="20220601200000 -0300" stop="20220601210000 -0300" channel="FOX Sports 2">
-    <title lang="es">WWE Vintage</title>
+  <programme start="20220602220000 -0300" stop="20220602230000 -0300" channel="FOX Sports">
+    <title lang="es">Newell’s campeón Apertura 2004</title>
   </programme>
-  <programme start="20220601210000 -0300" stop="20220601213000 -0300" channel="FOX Sports 2">
-    <title lang="es">Rugby</title>
-  </programme>
-  <programme start="20220601213000 -0300" stop="20220601233000 -0300" channel="FOX Sports 2">
-    <title lang="es">Barcelona (Ecu) vs. Vélez (Arg), Octavos de final</title>
+  <programme start="20220602230000 -0300" stop="20220603010000 -0300" channel="FOX Sports">
+    <title lang="es">Talleres (Arg) vs. Flamengo (Bra), Fecha 4</title>
   </programme>
   <programme start="20220601233000 -0300" stop="20220602003000 -0300" channel="FOX Sports 2">
     <title lang="es">Expediente fútbol</title>
   </programme>
-  <programme start="20220531230000 -0300" stop="20220601010000 -0300" channel="FOX Sports 3">
-    <title lang="es">Liverpool (Ing) vs. Villarreal (Esp), Semifinal</title>
+  <programme start="20220602003000 -0300" stop="20220602023000 -0300" channel="FOX Sports 2">
+    <title lang="es">Rugby</title>
   </programme>
-  <programme start="20220601010000 -0300" stop="20220601020000 -0300" channel="FOX Sports 3">
-    <title lang="es">WWE Raw Highlights</title>
+  <programme start="20220602023000 -0300" stop="20220602030000 -0300" channel="FOX Sports 2">
+    <title lang="es">Momentos eternos</title>
   </programme>
-  <programme start="20220601020000 -0300" stop="20220601050000 -0300" channel="FOX Sports 3">
-    <title lang="es">UFC Reloaded</title>
+  <programme start="20220602030000 -0300" stop="20220602050000 -0300" channel="FOX Sports 2">
+    <title lang="es">Barcelona (Ecu) vs. Vélez (Arg), Octavos de final</title>
   </programme>
-  <programme start="20220601050000 -0300" stop="20220601060000 -0300" channel="FOX Sports 3">
-    <title lang="es">Boca Juniors campeón Copa Libertadores 2003</title>
-  </programme>
-  <programme start="20220601060000 -0300" stop="20220601070000 -0300" channel="FOX Sports 3">
-    <title lang="es">Estudiantes campeón Copa Libertadores 2009</title>
-  </programme>
-  <programme start="20220601070000 -0300" stop="20220601090000 -0300" channel="FOX Sports 3">
-    <title lang="es">U. Católica (Chi) vs. Talleres (Arg), Fecha 6</title>
-  </programme>
-  <programme start="20220601090000 -0300" stop="20220601110000 -0300" channel="FOX Sports 3">
+  <programme start="20220602050000 -0300" stop="20220602070000 -0300" channel="FOX Sports 2">
     <title lang="es">Fórmula 1</title>
   </programme>
-  <programme start="20220601110000 -0300" stop="20220601130000 -0300" channel="FOX Sports 3">
-    <title lang="es">Manchester City (Ing) vs. Real Madrid (Esp), Semifinal</title>
+  <programme start="20220602070000 -0300" stop="20220602090000 -0300" channel="FOX Sports 2">
+    <title lang="es">Sheriff (Mol) vs. Real Madrid (Esp), Fecha 5</title>
   </programme>
-  <programme start="20220601130000 -0300" stop="20220601140000 -0300" channel="FOX Sports 3">
-    <title lang="es">The Ultimate Fighter</title>
+  <programme start="20220602090000 -0300" stop="20220602110000 -0300" channel="FOX Sports 2">
+    <title lang="es">UFC Clásicos</title>
   </programme>
-  <programme start="20220601140000 -0300" stop="20220601170000 -0300" channel="FOX Sports 3">
-    <title lang="es">UFC Main Card</title>
+  <programme start="20220602110000 -0300" stop="20220602120000 -0300" channel="FOX Sports 2">
+    <title lang="es">WWE Vintage</title>
   </programme>
-  <programme start="20220601170000 -0300" stop="20220601180000 -0300" channel="FOX Sports 3">
-    <title lang="es">San Lorenzo campeón Copa Libertadores 2014</title>
-  </programme>
-  <programme start="20220601180000 -0300" stop="20220601190000 -0300" channel="FOX Sports 3">
-    <title lang="es">River Plate campeón Copa Libertadores 2015</title>
-  </programme>
-  <programme start="20220601190000 -0300" stop="20220601210000 -0300" channel="FOX Sports 3">
-    <title lang="es">U. Católica (Chi) vs. Talleres (Arg), Fecha 6</title>
-  </programme>
-  <programme start="20220601210000 -0300" stop="20220601230000 -0300" channel="FOX Sports 3">
+  <programme start="20220602120000 -0300" stop="20220602140000 -0300" channel="FOX Sports 2">
     <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220602140000 -0300" stop="20220602160000 -0300" channel="FOX Sports 2">
+    <title lang="es">Flamengo (Bra) vs. Def. y Justicia (Arg), Octavos de final</title>
+  </programme>
+  <programme start="20220602160000 -0300" stop="20220602163000 -0300" channel="FOX Sports 2">
+    <title lang="es">Expediente fútbol</title>
+  </programme>
+  <programme start="20220602163000 -0300" stop="20220602170000 -0300" channel="FOX Sports 2">
+    <title lang="es">Rugby</title>
+  </programme>
+  <programme start="20220602170000 -0300" stop="20220602190000 -0300" channel="FOX Sports 2">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220602190000 -0300" stop="20220602200000 -0300" channel="FOX Sports 2">
+    <title lang="es">UFC Clásicos</title>
+  </programme>
+  <programme start="20220602200000 -0300" stop="20220602210000 -0300" channel="FOX Sports 2">
+    <title lang="es">WWE NXT</title>
+  </programme>
+  <programme start="20220602210000 -0300" stop="20220602230000 -0300" channel="FOX Sports 2">
+    <title lang="es">Flamengo (Bra) vs. Def. y Justicia (Arg), Octavos de final</title>
+  </programme>
+  <programme start="20220602230000 -0300" stop="20220602233000 -0300" channel="FOX Sports 2">
+    <title lang="es">Momentos eternos</title>
+  </programme>
+  <programme start="20220602233000 -0300" stop="20220603003000 -0300" channel="FOX Sports 2">
+    <title lang="es">Expediente fútbol</title>
   </programme>
   <programme start="20220601230000 -0300" stop="20220602010000 -0300" channel="FOX Sports 3">
     <title lang="es">Manchester City (Ing) vs. Real Madrid (Esp), Semifinal</title>
+  </programme>
+  <programme start="20220602010000 -0300" stop="20220602020000 -0300" channel="FOX Sports 3">
+    <title lang="es">The Ultimate Fighter</title>
+  </programme>
+  <programme start="20220602020000 -0300" stop="20220602050000 -0300" channel="FOX Sports 3">
+    <title lang="es">UFC Main Card</title>
+  </programme>
+  <programme start="20220602050000 -0300" stop="20220602060000 -0300" channel="FOX Sports 3">
+    <title lang="es">San Lorenzo campeón Copa Libertadores 2014</title>
+  </programme>
+  <programme start="20220602060000 -0300" stop="20220602070000 -0300" channel="FOX Sports 3">
+    <title lang="es">River Plate campeón Copa Libertadores 2015</title>
+  </programme>
+  <programme start="20220602070000 -0300" stop="20220602090000 -0300" channel="FOX Sports 3">
+    <title lang="es">Peñarol (Uru) vs. Colón (Arg), Fecha 6</title>
+  </programme>
+  <programme start="20220602090000 -0300" stop="20220602110000 -0300" channel="FOX Sports 3">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220602110000 -0300" stop="20220602130000 -0300" channel="FOX Sports 3">
+    <title lang="es">Villarreal (Esp) vs. Liverpool (Ing), Semifinal</title>
+  </programme>
+  <programme start="20220602130000 -0300" stop="20220602140000 -0300" channel="FOX Sports 3">
+    <title lang="es">WWE Vintage</title>
+  </programme>
+  <programme start="20220602140000 -0300" stop="20220602170000 -0300" channel="FOX Sports 3">
+    <title lang="es">Premier Boxing Champions</title>
+  </programme>
+  <programme start="20220602170000 -0300" stop="20220602190000 -0300" channel="FOX Sports 3">
+    <title lang="es">Tigres (Mex) vs. River Plate (Arg), Final ida, Estadio Universitario</title>
+  </programme>
+  <programme start="20220602190000 -0300" stop="20220602210000 -0300" channel="FOX Sports 3">
+    <title lang="es">Peñarol (Uru) vs. Colón (Arg), Fecha 6</title>
+  </programme>
+  <programme start="20220602210000 -0300" stop="20220602230000 -0300" channel="FOX Sports 3">
+    <title lang="es">Fórmula 1</title>
+  </programme>
+  <programme start="20220602230000 -0300" stop="20220603010000 -0300" channel="FOX Sports 3">
+    <title lang="es">Villarreal (Esp) vs. Liverpool (Ing), Semifinal</title>
   </programme>
 </tv>
